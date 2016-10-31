@@ -1,0 +1,6 @@
+{'batsman': 'KC Sangakkara',
+ 'bowler': 'Harbhajan Singh',
+ 'runs': {'batsman': 0, 'total': 0, 'extras': 0},
+  'non_striker': 'K Goel',
+   'wicket':
+   {'fielders': ['DJ Bravo', 'L Ronchi'],'kind': 'run out', 'player_out': 'K Goel'}}

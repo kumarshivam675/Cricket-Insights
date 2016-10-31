@@ -1,12 +1,12 @@
+# Generates data of batsmen vs bowler vs No. of zeors, one, two.... siz scored, no of wickets taken
+
 from os import listdir
-
 import yaml
-
-import savetocsv
+import csv
 
 
 def get_filenames():
-    return listdir('./data')
+    return listdir('../../data')
 
 
 def structure_data_dictionary(data):
@@ -23,7 +23,11 @@ def structure_data_dictionary(data):
             six = data[key][key2][6]
             wicket = data[key][key2][7]
 
-            savetocsv.save(batsman, bowler, zero, one, two, three, four, five, six, wicket)
+            hello = [[batsman, bowler, zero, one, two, three, four, five, six, wicket]]
+
+            with open('batsman_vs_bowler_total.csv', 'a') as testfile:     # append it data to the csv file
+                csv_writer = csv.writer(testfile)
+                csv_writer.writerow(hello[0])
 
 
 def extract_info():
