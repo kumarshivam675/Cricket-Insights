@@ -32,10 +32,7 @@ def extract_info():
                             if ball[key]["wicket"]["kind"] == "run out":
                                 players = [ball[key]["batsman"], ball[key]["non_striker"]]
                                 player_out = ball[key]["wicket"]["player_out"]
-                                # print ball[key]
                                 players.pop(players.index(player_out))
-                                # print player_out, players[0]
-                                # print batting_team, bowling_team
                                 write_to_csv(player_out, players[0], batting_team, bowling_team)
             except:
                 print "error in file"
