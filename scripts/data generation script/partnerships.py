@@ -2,7 +2,7 @@ import yaml
 from os import listdir
 import csv
 
-resultFile = open("partnership.csv", "w+")
+resultFile = open("partnerships.csv", "w+")
 resultFile.write("player1,player2,team,partnership")
 resultFile.write("\n")
 currentPrt = 0
@@ -14,6 +14,7 @@ currentP2 = ""
 op = ""
 dirtyBit = 0
 lst = listdir("ipl")
+lst.sort(reverse=True)
 count = 1
 for fnum in lst:
 	count = count + 1
