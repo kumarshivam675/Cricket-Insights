@@ -64,4 +64,5 @@ for fnum in listdir("../../data"):
 #runrate = [b*6.0 / (m) for b,m in zip(overs, bowls)]
 wr = csv.writer(resultFile, quoting=csv.QUOTE_ALL)
 for x in data:
+	print x[0],x[1],x[2]+1,data[x][0],data[x][2], data[x][1]
 	wr.writerow([x[0],x[1],x[2]+1,data[x][0],data[x][2], data[x][1], (data[x][0]*6.0)/data[x][1], (data[x][2]*6.0)/data[x][1]])
