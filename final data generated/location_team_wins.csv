@@ -1,4 +1,4 @@
-City,Team Name,Matches Played,Wins,
+City_locations,Team_Name_locations,Matches Played,Win_location,Win_average
 Bangalore,Rising Pune Supergiants,1,0,0
 Delhi,Pune Warriors,1,1,1
 East London,Kolkata Knight Riders,1,0,0
@@ -116,34 +116,34 @@ Delhi,Gujarat Lions,2,1,0.5
 East London,Mumbai Indians,2,1,0.5
 Visakhapatnam,Deccan Chargers,2,0,0
 Chennai,Sunrisers Hyderabad,2,0,0
-Centurion,Rajasthan Royals,3,2,0.6666666667
-Port Elizabeth,Mumbai Indians,3,2,0.6666666667
-Centurion,Chennai Super Kings,3,2,0.6666666667
-Centurion,Royal Challengers Bangalore,3,2,0.6666666667
-Hyderabad,Chennai Super Kings,3,2,0.6666666667
+Centurion,Rajasthan Royals,3,2,0.666666667
+Port Elizabeth,Mumbai Indians,3,2,0.666666667
+Centurion,Chennai Super Kings,3,2,0.666666667
+Centurion,Royal Challengers Bangalore,3,2,0.666666667
+Hyderabad,Chennai Super Kings,3,2,0.666666667
 Chandigarh,Sunrisers Hyderabad,3,3,1
-Ranchi,Kolkata Knight Riders,3,1,0.3333333333
+Ranchi,Kolkata Knight Riders,3,1,0.333333333
 Durban,Mumbai Indians,3,0,0
-Visakhapatnam,Delhi Daredevils,3,1,0.3333333333
-Bangalore,Deccan Chargers,3,1,0.3333333333
+Visakhapatnam,Delhi Daredevils,3,1,0.333333333
+Bangalore,Deccan Chargers,3,1,0.333333333
 Cuttack,Kolkata Knight Riders,3,3,1
 Pune,Mumbai Indians,3,3,1
-Visakhapatnam,Rising Pune Supergiants,3,2,0.6666666667
-Chandigarh,Pune Warriors,3,1,0.3333333333
-Ranchi,Royal Challengers Bangalore,3,1,0.3333333333
-Durban,Deccan Chargers,3,2,0.6666666667
-Johannesburg,Deccan Chargers,3,2,0.6666666667
+Visakhapatnam,Rising Pune Supergiants,3,2,0.666666667
+Chandigarh,Pune Warriors,3,1,0.333333333
+Ranchi,Royal Challengers Bangalore,3,1,0.333333333
+Durban,Deccan Chargers,3,2,0.666666667
+Johannesburg,Deccan Chargers,3,2,0.666666667
 Durban,Delhi Daredevils,3,3,1
-Johannesburg,Delhi Daredevils,3,1,0.3333333333
-Durban,Rajasthan Royals,3,2,0.6666666667
-Cuttack,Kings XI Punjab,3,1,0.3333333333
-Chennai,Pune Warriors,3,1,0.3333333333
-Centurion,Mumbai Indians,3,1,0.3333333333
-Nagpur,Deccan Chargers,3,2,0.6666666667
+Johannesburg,Delhi Daredevils,3,1,0.333333333
+Durban,Rajasthan Royals,3,2,0.666666667
+Cuttack,Kings XI Punjab,3,1,0.333333333
+Chennai,Pune Warriors,3,1,0.333333333
+Centurion,Mumbai Indians,3,1,0.333333333
+Nagpur,Deccan Chargers,3,2,0.666666667
 Jaipur,Pune Warriors,3,0,0
 Kolkata,Deccan Chargers,3,0,0
-Dharamsala,Delhi Daredevils,3,1,0.3333333333
-Mumbai,Sunrisers Hyderabad,3,1,0.3333333333
+Dharamsala,Delhi Daredevils,3,1,0.333333333
+Mumbai,Sunrisers Hyderabad,3,1,0.333333333
 Port Elizabeth,Royal Challengers Bangalore,3,0,0
 Bangalore,Pune Warriors,3,0,0
 Delhi,Deccan Chargers,4,2,0.5
@@ -185,51 +185,51 @@ Jaipur,Mumbai Indians,5,2,0.4
 Pune,Kings XI Punjab,5,1,0.2
 Kochi,Kochi Tuskers Kerala,5,2,0.4
 Chandigarh,Rajasthan Royals,6,3,0.5
-Raipur,Delhi Daredevils,6,4,0.6666666667
+Raipur,Delhi Daredevils,6,4,0.666666667
 Chandigarh,Royal Challengers Bangalore,6,3,0.5
-Kolkata,Rajasthan Royals,6,1,0.1666666667
-Delhi,Royal Challengers Bangalore,6,4,0.6666666667
-Hyderabad,Royal Challengers Bangalore,6,2,0.3333333333
-Hyderabad,Mumbai Indians,6,4,0.6666666667
-Durban,Kings XI Punjab,6,2,0.3333333333
+Kolkata,Rajasthan Royals,6,1,0.166666667
+Delhi,Royal Challengers Bangalore,6,4,0.666666667
+Hyderabad,Royal Challengers Bangalore,6,2,0.333333333
+Hyderabad,Mumbai Indians,6,4,0.666666667
+Durban,Kings XI Punjab,6,2,0.333333333
 Chennai,Mumbai Indians,6,3,0.5
-Chennai,Rajasthan Royals,6,1,0.1666666667
-Kolkata,Delhi Daredevils,6,1,0.1666666667
-Delhi,Chennai Super Kings,6,5,0.8333333333
-Kolkata,Royal Challengers Bangalore,7,3,0.4285714286
-Bangalore,Chennai Super Kings,7,4,0.5714285714
-Chennai,Kolkata Knight Riders,7,2,0.2857142857
-Delhi,Kolkata Knight Riders,7,4,0.5714285714
-Hyderabad,Kings XI Punjab,7,4,0.5714285714
-Chandigarh,Mumbai Indians,7,4,0.5714285714
-Delhi,Rajasthan Royals,7,4,0.5714285714
-Chennai,Delhi Daredevils,7,2,0.2857142857
+Chennai,Rajasthan Royals,6,1,0.166666667
+Kolkata,Delhi Daredevils,6,1,0.166666667
+Delhi,Chennai Super Kings,6,5,0.833333333
+Kolkata,Royal Challengers Bangalore,7,3,0.428571429
+Bangalore,Chennai Super Kings,7,4,0.571428571
+Chennai,Kolkata Knight Riders,7,2,0.285714286
+Delhi,Kolkata Knight Riders,7,4,0.571428571
+Hyderabad,Kings XI Punjab,7,4,0.571428571
+Chandigarh,Mumbai Indians,7,4,0.571428571
+Delhi,Rajasthan Royals,7,4,0.571428571
+Chennai,Delhi Daredevils,7,2,0.285714286
 Kolkata,Kings XI Punjab,8,2,0.25
 Chennai,Royal Challengers Bangalore,8,2,0.25
 Delhi,Kings XI Punjab,8,4,0.5
 Bangalore,Mumbai Indians,8,6,0.75
 Bangalore,Kolkata Knight Riders,8,4,0.5
 Delhi,Mumbai Indians,8,2,0.25
-Mumbai,Deccan Chargers,9,3,0.3333333333
-Bangalore,Kings XI Punjab,9,4,0.4444444444
-Kolkata,Chennai Super Kings,9,4,0.4444444444
-Dharamsala,Kings XI Punjab,9,5,0.5555555556
+Mumbai,Deccan Chargers,9,3,0.333333333
+Bangalore,Kings XI Punjab,9,4,0.444444444
+Kolkata,Chennai Super Kings,9,4,0.444444444
+Dharamsala,Kings XI Punjab,9,5,0.555555556
 Mumbai,Delhi Daredevils,10,2,0.2
 Mumbai,Pune Warriors,10,3,0.3
 Mumbai,Kings XI Punjab,10,4,0.4
 Mumbai,Royal Challengers Bangalore,10,5,0.5
 Mumbai,Kolkata Knight Riders,10,3,0.3
 Kolkata,Mumbai Indians,10,8,0.8
-Ahmedabad,Rajasthan Royals,11,7,0.6363636364
-Mumbai,Rajasthan Royals,12,5,0.4166666667
+Ahmedabad,Rajasthan Royals,11,7,0.636363636
+Mumbai,Rajasthan Royals,12,5,0.416666667
 Pune,Pune Warriors,16,4,0.25
 Mumbai,Chennai Super Kings,16,8,0.5
-Hyderabad,Deccan Chargers,18,3,0.1666666667
-Hyderabad,Sunrisers Hyderabad,22,13,0.5909090909
-Jaipur,Rajasthan Royals,33,24,0.7272727273
-Chandigarh,Kings XI Punjab,42,20,0.4761904762
-Chennai,Chennai Super Kings,46,33,0.7173913043
-Delhi,Delhi Daredevils,48,19,0.3958333333
-Kolkata,Kolkata Knight Riders,51,33,0.6470588235
-Bangalore,Royal Challengers Bangalore,53,28,0.5283018868
-Mumbai,Mumbai Indians,60,40,0.6666666667
+Hyderabad,Deccan Chargers,18,3,0.166666667
+Hyderabad,Sunrisers Hyderabad,22,13,0.590909091
+Jaipur,Rajasthan Royals,33,24,0.727272727
+Chandigarh,Kings XI Punjab,42,20,0.476190476
+Chennai,Chennai Super Kings,46,33,0.717391304
+Delhi,Delhi Daredevils,48,19,0.395833333
+Kolkata,Kolkata Knight Riders,51,33,0.647058824
+Bangalore,Royal Challengers Bangalore,53,28,0.528301887
+Mumbai,Mumbai Indians,60,40,0.666666667
