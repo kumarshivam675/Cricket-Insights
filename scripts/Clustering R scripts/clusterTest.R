@@ -2,21 +2,23 @@ library(fpc)
 
 data <- read.csv("/home/aditya9509/Cricket/final\ data\ generated/average.csv")
 
-data2 <- data.frame(data$Strike_rate,data$Avg)
+data2 <- data.frame(data$Wickets,data$Balls)
 
 plot(data2)
 
 data[0,]
 
-select = 1
+select = 9
 
 if(select == 1){
   
   #-----------------K-means clustring -------------------------------#  
   
+  set.seed(385)
+  
   number_of_clusters = 3
   
-  number_of_samples = 60 # Set value to dim(data2)[1] to consider whole data.
+  number_of_samples = 70 # Set value to dim(data2)[1] to consider whole data.
   
   idx <- sample(1:dim(data2)[1], number_of_samples)
   
@@ -61,6 +63,23 @@ if(select == 1){
 }else if(select == 3){
 
 #--------------------Density based clustering------------------------#
+  set.seed(385)
+  
+  number_of_samples = 100 # Set value to dim(data2)[1] to consider whole data.
+  
+  idx <- sample(1:dim(data2)[1], number_of_samples)
+  
+  data2 <- data2[idx ,]  #K means on sampled data.
+  
+  eps = 8
+  
+  MinPts = 2
+  
+  ds <- dbscan(data2, eps=eps, MinPts=MinPts)
+  
+  plot(ds ,data2)
+  
+  title(main = paste("DBSCAN for" ,toString(number_of_samples) , "samples with eps" , toString(eps) ,"and MinPts", toString(MinPts)), sub = NULL, xlab = NULL, ylab = NULL,line = NA, outer = FALSE)
 #-------------------------------------------------------------------#
 
 }
