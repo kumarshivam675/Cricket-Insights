@@ -40,7 +40,5 @@ with open('players.csv', 'rb') as csvfile:
 			row.append(mapping[bowl_attr][1])
 		writer.writerow(row)
 
-
-
 #print row[3]
 #print row[9]
