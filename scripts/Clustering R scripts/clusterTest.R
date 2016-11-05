@@ -1,15 +1,17 @@
 library(fpc)
 library(cluster)
 
-data <- read.csv("/home/aditya9509/Cricket/final\ data\ generated/average.csv")
+data <- read.csv("/home/aditya9509/Cricket/final\ data\ generated/bowlers_average.csv")
 
-data <- data[order(data$Wickets, decreasing=TRUE),]
+#data <- data[order(data$Wickets, decreasing=TRUE),]
 
-data2 <- data[data$Wickets > 20,]
+data2 <- data[data$Runs >= 100,]
+
+data2 <- data2[data2$Wickets >= 10,]
 
 #data2 <- data2[data2$Balls > 400,]
 
-data2 <- data.frame(c(1:95), data2$Balls/data2$Wickets)
+data2 <- data.frame(c(1:nrow(data2)), data2$Economy)
 
 plot(data2)
 
@@ -39,7 +41,7 @@ if(select == 1){
   
   number_of_clusters = 5
   
-  number_of_samples = 90  # Set value to dim(data2)[1] to consider whole data.
+  number_of_samples = dim(data2)[1]  # Set value to dim(data2)[1] to consider whole data.
   
   idx <- sample(1:dim(data2)[1], number_of_samples)
   
@@ -92,7 +94,7 @@ if(select == 1){
 #--------------------Density based clustering------------------------#
   #set.seed(385)
   
-  number_of_samples = 95 # Set value to dim(data2)[1] to consider whole data.
+  number_of_samples = dim(data2)[1] # Set value to dim(data2)[1] to consider whole data.
   
   idx <- sample(1:dim(data2)[1], number_of_samples)
   
