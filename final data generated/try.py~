@@ -27,4 +27,4 @@ with open('average.csv','w+') as csvfile:
 #			print excel
 			avg = excel[i][0]*1.0/excel[i][1]
 
-		wr.writerow([i,excel[i][0],excel[i][1],excel[i][2],(excel[i][0]*100.0)/excel[i][2],avg])
+		wr.writerow([i,(excel[i][0]*100.0)/excel[i][2],avg])
