@@ -1,14 +1,27 @@
 library(fpc)
+library(cluster)
 
 data <- read.csv("/home/aditya9509/Cricket/final\ data\ generated/average.csv")
 
-data2 <- data.frame(data$Wickets,data$Balls)
+data2 <- data.frame(data$ones, data$sixes)
 
-plot(data2)
+#data2 <- data2[data2$data.Strike_rate.data.Avg <= 0.3,]
 
-data[0,]
+#data2 <- data2[data$Runs >= 1000,]
 
-select = 9
+#data2 <- data.frame(data$Balls/data$Strike_rate,data$Avg)
+
+#data2 <- data2[data2[,1] <= 13]
+
+#data2 <- data2[data$Balls > 150,]
+
+#data2 <- data2[data2$data.Strike_rate >= 120 ,]
+
+#data2 <- data2[data2$data.Avg >= 20,]
+
+plot(data2 , xlim = c(0,200))
+
+select = 4
 
 if(select == 1){
   
@@ -18,7 +31,7 @@ if(select == 1){
   
   number_of_clusters = 3
   
-  number_of_samples = 70 # Set value to dim(data2)[1] to consider whole data.
+  number_of_samples = 90  # Set value to dim(data2)[1] to consider whole data.
   
   idx <- sample(1:dim(data2)[1], number_of_samples)
   
@@ -32,7 +45,9 @@ if(select == 1){
   
   points(kmeans.result$centers[,c(colnames(data2)[1],colnames(data2)[2])], col = 1:3, pch = 8, cex=2 )
   
-  table(data[idx ,]$Name , kmeans.result$cluster)
+  (table(data[idx ,]$Name , kmeans.result$cluster))
+  
+  #(kmeans.result$cluster)
 
   #-------------------------------------------------------------------#
 
@@ -63,7 +78,7 @@ if(select == 1){
 }else if(select == 3){
 
 #--------------------Density based clustering------------------------#
-  set.seed(385)
+  #set.seed(385)
   
   number_of_samples = 100 # Set value to dim(data2)[1] to consider whole data.
   
@@ -71,15 +86,16 @@ if(select == 1){
   
   data2 <- data2[idx ,]  #K means on sampled data.
   
-  eps = 8
+  eps = 1.5
   
-  MinPts = 2
+  MinPts = 3.0
   
   ds <- dbscan(data2, eps=eps, MinPts=MinPts)
   
   plot(ds ,data2)
   
   title(main = paste("DBSCAN for" ,toString(number_of_samples) , "samples with eps" , toString(eps) ,"and MinPts", toString(MinPts)), sub = NULL, xlab = NULL, ylab = NULL,line = NA, outer = FALSE)
-#-------------------------------------------------------------------#
+
+  #-------------------------------------------------------------------#
 
 }
