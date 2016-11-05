@@ -3,7 +3,15 @@ library(cluster)
 
 data <- read.csv("/home/aditya9509/Cricket/final\ data\ generated/average.csv")
 
-data2 <- data.frame(data$ones, data$sixes)
+data <- data[order(data$Wickets, decreasing=TRUE),]
+
+data2 <- data[data$Wickets > 20,]
+
+#data2 <- data2[data2$Balls > 400,]
+
+data2 <- data.frame(c(1:95), data2$Balls/data2$Wickets)
+
+plot(data2)
 
 #data2 <- data2[data2$data.Strike_rate.data.Avg <= 0.3,]
 
@@ -19,9 +27,9 @@ data2 <- data.frame(data$ones, data$sixes)
 
 #data2 <- data2[data2$data.Avg >= 20,]
 
-plot(data2 , xlim = c(0,200))
+#plot(data2)
 
-select = 4
+select = 1
 
 if(select == 1){
   
@@ -29,7 +37,7 @@ if(select == 1){
   
   set.seed(385)
   
-  number_of_clusters = 3
+  number_of_clusters = 5
   
   number_of_samples = 90  # Set value to dim(data2)[1] to consider whole data.
   
@@ -37,7 +45,7 @@ if(select == 1){
   
   data2 <- data2[idx ,]  #K means on sampled data.
   
-  (kmeans.result <- kmeans(data2, number_of_clusters)) 
+  (kmeans.result <- kmeans(data2, number_of_clusters )) 
   
   plot(data2[c(colnames(data2)[1],colnames(data2)[2])] , col = kmeans.result$cluster)
   
@@ -45,7 +53,11 @@ if(select == 1){
   
   points(kmeans.result$centers[,c(colnames(data2)[1],colnames(data2)[2])], col = 1:3, pch = 8, cex=2 )
   
-  (table(data[idx ,]$Name , kmeans.result$cluster))
+  #si <- silhouette(kmeans.result$cluster , dist(data2))
+  
+  #plot(si)
+  
+  #(table(data[idx ,]$Name , kmeans.result$cluster))
   
   #(kmeans.result$cluster)
 
@@ -80,19 +92,23 @@ if(select == 1){
 #--------------------Density based clustering------------------------#
   #set.seed(385)
   
-  number_of_samples = 100 # Set value to dim(data2)[1] to consider whole data.
+  number_of_samples = 95 # Set value to dim(data2)[1] to consider whole data.
   
   idx <- sample(1:dim(data2)[1], number_of_samples)
   
   data2 <- data2[idx ,]  #K means on sampled data.
   
-  eps = 1.5
+  eps = 3
   
   MinPts = 3.0
   
   ds <- dbscan(data2, eps=eps, MinPts=MinPts)
   
   plot(ds ,data2)
+  
+  si <- silhouette(ds$cluster , dist(data2))
+  
+  plot(si )
   
   title(main = paste("DBSCAN for" ,toString(number_of_samples) , "samples with eps" , toString(eps) ,"and MinPts", toString(MinPts)), sub = NULL, xlab = NULL, ylab = NULL,line = NA, outer = FALSE)
 
