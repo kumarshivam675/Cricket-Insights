@@ -1,0 +1,31 @@
+average
+strike rate
+runs
+wickets
+matches played
+age
+money value
+team played
+batting position
+playing opportunity
+
+
+
+last 3 months, 6 months, 1 year
+ - strike rate
+ - average
+ - runs scored
+ - matches played
+ - 
+ 
+ 
+ ipython notebook
+ data frames
+ pandas dataframe
+ .save, .load (to store model)
+ 
+ model = library.classifier(data frame, targeted variable
+ number of iteration, 
+ ensemble models, boosting
+ 
+ 

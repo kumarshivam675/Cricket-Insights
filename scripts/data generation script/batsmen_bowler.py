@@ -38,7 +38,7 @@ def extract_info():
         print file, count
         count += 1
         try:
-            f = open('./data/' + file)
+            f = open('../../data/' + file)
             match = yaml.safe_load(f)
             for innings in innings_list:
                 for ball in match['innings'][innings_list.index(innings)][innings]["deliveries"]:
