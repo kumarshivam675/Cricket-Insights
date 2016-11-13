@@ -1,4 +1,5 @@
 library(party)
+
 library(randomForest)
 
 segment_one <- read.csv("/home/aditya9509/Cricket/prediction data generated/first_six_overs.csv")
@@ -11,11 +12,19 @@ segment_three <- read.csv("/home/aditya9509/Cricket/prediction data generated/si
 
 #segment_two <- segment_two[sample(nrow(segment_two)),]
 
-#segment_three <- segment_three[sample(nrow(segment_three)),]
+#100 106/156 a = 0.83 r = 8
+
+#85 100/156  a = .57
+
+#382462346 107/156 a = 0.82 r = 9   ration075--> 71.538% acc , ratio70 ---> 71.333% acc
+
+set.seed(382462346)
+
+segment_three <- segment_three[sample(nrow(segment_three)),]
 
 #Split data into train and test data
 
-train_data_ratio = 0.65
+train_data_ratio = 0.70
 
 train_segment_one = segment_one[1:floor(train_data_ratio*nrow(segment_one)),]
 
@@ -53,17 +62,39 @@ if(selectBit == 1){
   
 }
 
-train_data$MR <- c(scale(train_data$MR))
+a = 0.82
 
-train_data$OR <- c(scale(train_data$OR))
+b = 1 - a
 
-train_data$MW <- c(scale(train_data$MW))
+r = 9
 
-train_data$OW <- c(scale(train_data$OW))
+train_data$MR <- a*c(scale(train_data$MR))
 
-output.tree <- randomForest(win ~ venue + team1 + team2 + MR + OR + MW + OW , data = train_data)
+train_data$OR <- a*c(scale(train_data$OR))
+
+train_data$MW <- b*c(scale(train_data$MW))
+
+train_data$OW <- b*c(scale(train_data$OW))
+
+train_data$MRN <- r*c(scale(train_data$MRN))
+
+train_data$ORN <- r*c(scale(train_data$ORN))
+
+output.tree <- randomForest(win ~ team1 + team2 +  (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
 
 test_data = data.frame(file = test_data$file,  venue = test_data$venue, team1 = test_data$team1, team2 = test_data$team2, MR = c(scale(test_data$MR)),   MRN = c(scale(test_data$MRN)),  MW = c(scale(test_data$MW)),   OR   = c(scale(test_data$OR)), ORN  = c(scale(test_data$ORN)), OW   = c(scale(test_data$OW)), win= test_data$win)
+
+test_data$MR <- a*c(scale(test_data$MR))
+
+test_data$OR <- a*c(scale(test_data$OR))
+
+test_data$MW <- b*c(scale(test_data$MW))
+
+test_data$OW <- b*c(scale(test_data$OW))
+
+test_data$MRN <- a*c(scale(test_data$MRN))
+
+test_data$ORN <- a*c(scale(test_data$ORN))
 
 testPred <- predict(output.tree, newdata = test_data[,1:(ncol(test_data) - 1)])
 
@@ -89,8 +120,8 @@ for (i in 1:length(predictions$testPred)){
   }else{
     
     testPred[i] <- as.character(test_data$team1[i])
-    count = count + 1
     
+    count = count + 1
   }
   
 }
@@ -99,4 +130,4 @@ count
 
 summary(testPred == test_data$win)
 
-write.csv(data.frame(test_data$file , testPred) , file = "/home/aditya9509/Cricket/prediction data generated/classification3.csv" )
+#write.csv(data.frame(test_data$file , testPred) , file = "/home/aditya9509/Cricket/prediction data generated/classification4.csv" )

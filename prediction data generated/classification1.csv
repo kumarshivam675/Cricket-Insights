@@ -1,203 +1,205 @@
-"","test_data.file","testPred"
-"1",501225,"Rajasthan Royals"
-"2",501224,"Mumbai Indians"
-"3",501223,"Kings XI Punjab"
-"4",501222,"Royal Challengers Bangalore"
-"5",501221,"Mumbai Indians"
-"6",501220,"Kings XI Punjab"
-"7",501219,"Kolkata Knight Riders"
-"8",501218,"Mumbai Indians"
-"9",501216,"Delhi Daredevils"
-"10",501215,"Chennai Super Kings"
-"11",501214,"Kolkata Knight Riders"
-"12",501213,"Pune Warriors"
-"13",501212,"Kings XI Punjab"
-"14",501211,"Chennai Super Kings"
-"15",501210,"Mumbai Indians"
-"16",501209,"Rajasthan Royals"
-"17",501208,"Deccan Chargers"
-"18",501207,"Kochi Tuskers Kerala"
-"19",501206,"Kings XI Punjab"
-"20",501205,"Mumbai Indians"
-"21",501204,"Rajasthan Royals"
-"22",501203,"Kolkata Knight Riders"
-"23",501202,"Kings XI Punjab"
-"24",501201,"Delhi Daredevils"
-"25",501200,"Royal Challengers Bangalore"
-"26",501199,"Rajasthan Royals"
-"27",501198,"Kolkata Knight Riders"
-"28",419165,"Mumbai Indians"
-"29",419164,"Royal Challengers Bangalore"
-"30",419163,"Chennai Super Kings"
-"31",419162,"Mumbai Indians"
-"32",419161,"Kolkata Knight Riders"
-"33",419160,"Delhi Daredevils"
-"34",419159,"Kings XI Punjab"
-"35",419158,"Kolkata Knight Riders"
-"36",419157,"Mumbai Indians"
-"37",419156,"Kings XI Punjab"
-"38",419155,"Chennai Super Kings"
-"39",419154,"Royal Challengers Bangalore"
-"40",419153,"Chennai Super Kings"
-"41",419152,"Mumbai Indians"
-"42",419151,"Royal Challengers Bangalore"
-"43",419150,"Rajasthan Royals"
-"44",419149,"Kings XI Punjab"
-"45",419148,"Royal Challengers Bangalore"
-"46",419147,"Chennai Super Kings"
-"47",419146,"Mumbai Indians"
-"48",419145,"Royal Challengers Bangalore"
-"49",419144,"Kolkata Knight Riders"
-"50",419143,"Rajasthan Royals"
-"51",419142,"Mumbai Indians"
-"52",419141,"Rajasthan Royals"
-"53",419140,"Royal Challengers Bangalore"
-"54",419139,"Kolkata Knight Riders"
-"55",419138,"Mumbai Indians"
-"56",419137,"Chennai Super Kings"
-"57",419136,"Kings XI Punjab"
-"58",419135,"Kolkata Knight Riders"
-"59",419134,"Rajasthan Royals"
-"60",419133,"Chennai Super Kings"
-"61",419132,"Mumbai Indians"
-"62",419131,"Delhi Daredevils"
-"63",419130,"Mumbai Indians"
-"64",419129,"Chennai Super Kings"
-"65",419128,"Royal Challengers Bangalore"
-"66",419127,"Kings XI Punjab"
-"67",419126,"Rajasthan Royals"
-"68",419125,"Mumbai Indians"
-"69",419124,"Kings XI Punjab"
-"70",419123,"Chennai Super Kings"
-"71",419122,"Mumbai Indians"
-"72",419121,"Chennai Super Kings"
-"73",419120,"Delhi Daredevils"
-"74",419119,"Mumbai Indians"
-"75",419118,"Rajasthan Royals"
-"76",419117,"Kings XI Punjab"
-"77",419116,"Chennai Super Kings"
-"78",419115,"Royal Challengers Bangalore"
-"79",419114,"Mumbai Indians"
-"80",419113,"Kolkata Knight Riders"
-"81",419112,"Royal Challengers Bangalore"
-"82",419111,"Rajasthan Royals"
-"83",419110,"Chennai Super Kings"
-"84",419109,"Kolkata Knight Riders"
-"85",419108,"Kings XI Punjab"
-"86",419107,"Mumbai Indians"
-"87",419106,"Kolkata Knight Riders"
-"88",392239,"Royal Challengers Bangalore"
-"89",392238,"Chennai Super Kings"
-"90",392237,"Delhi Daredevils"
-"91",392236,"Royal Challengers Bangalore"
-"92",392235,"Delhi Daredevils"
-"93",392234,"Chennai Super Kings"
-"94",392233,"Rajasthan Royals"
-"95",392232,"Royal Challengers Bangalore"
-"96",392231,"Kolkata Knight Riders"
-"97",392230,"Rajasthan Royals"
-"98",392229,"Kings XI Punjab"
-"99",392228,"Kolkata Knight Riders"
-"100",392227,"Mumbai Indians"
-"101",392226,"Kings XI Punjab"
-"102",392225,"Rajasthan Royals"
-"103",392224,"Chennai Super Kings"
-"104",392223,"Delhi Daredevils"
-"105",392222,"Mumbai Indians"
-"106",392221,"Royal Challengers Bangalore"
-"107",392220,"Rajasthan Royals"
-"108",392219,"Delhi Daredevils"
-"109",392218,"Mumbai Indians"
-"110",392217,"Chennai Super Kings"
-"111",392216,"Kings XI Punjab"
-"112",392215,"Delhi Daredevils"
-"113",392214,"Chennai Super Kings"
-"114",392213,"Rajasthan Royals"
-"115",392212,"Mumbai Indians"
-"116",392211,"Kolkata Knight Riders"
-"117",392210,"Rajasthan Royals"
-"118",392209,"Chennai Super Kings"
-"119",392208,"Royal Challengers Bangalore"
-"120",392207,"Kolkata Knight Riders"
-"121",392206,"Chennai Super Kings"
-"122",392205,"Rajasthan Royals"
-"123",392204,"Kings XI Punjab"
-"124",392203,"Mumbai Indians"
-"125",392202,"Chennai Super Kings"
-"126",392201,"Delhi Daredevils"
-"127",392200,"Kings XI Punjab"
-"128",392199,"Kolkata Knight Riders"
-"129",392198,"Rajasthan Royals"
-"130",392197,"Mumbai Indians"
-"131",392196,"Chennai Super Kings"
-"132",392195,"Rajasthan Royals"
-"133",392194,"Royal Challengers Bangalore"
-"134",392192,"Mumbai Indians"
-"135",392191,"Kings XI Punjab"
-"136",392190,"Kolkata Knight Riders"
-"137",392189,"Chennai Super Kings"
-"138",392188,"Royal Challengers Bangalore"
-"139",392186,"Kolkata Knight Riders"
-"140",392185,"Chennai Super Kings"
-"141",392184,"Kolkata Knight Riders"
-"142",392183,"Kings XI Punjab"
-"143",392182,"Rajasthan Royals"
-"144",392181,"Mumbai Indians"
-"145",336040,"Chennai Super Kings"
-"146",336039,"Chennai Super Kings"
-"147",336038,"Rajasthan Royals"
-"148",336037,"Chennai Super Kings"
-"149",336036,"Rajasthan Royals"
-"150",336035,"Kolkata Knight Riders"
-"151",336034,"Royal Challengers Bangalore"
-"152",336033,"Chennai Super Kings"
-"153",336032,"Delhi Daredevils"
-"154",336031,"Kings XI Punjab"
-"155",336029,"Chennai Super Kings"
-"156",336028,"Mumbai Indians"
-"157",336027,"Kolkata Knight Riders"
-"158",336026,"Royal Challengers Bangalore"
-"159",336025,"Chennai Super Kings"
-"160",336024,"Mumbai Indians"
-"161",336023,"Rajasthan Royals"
-"162",336022,"Kings XI Punjab"
-"163",336021,"Mumbai Indians"
-"164",336020,"Delhi Daredevils"
-"165",336019,"Kings XI Punjab"
-"166",336018,"Mumbai Indians"
-"167",336017,"Kolkata Knight Riders"
-"168",336016,"Kings XI Punjab"
-"169",336015,"Rajasthan Royals"
-"170",336014,"Kolkata Knight Riders"
-"171",336013,"Chennai Super Kings"
-"172",336012,"Royal Challengers Bangalore"
-"173",336011,"Rajasthan Royals"
-"174",336010,"Kolkata Knight Riders"
-"175",336009,"Chennai Super Kings"
-"176",336008,"Mumbai Indians"
-"177",336007,"Chennai Super Kings"
-"178",336006,"Kings XI Punjab"
-"179",336005,"Rajasthan Royals"
-"180",336004,"Mumbai Indians"
-"181",336003,"Kings XI Punjab"
-"182",336002,"Royal Challengers Bangalore"
-"183",336001,"Chennai Super Kings"
-"184",336000,"Rajasthan Royals"
-"185",335999,"Kings XI Punjab"
-"186",335998,"Royal Challengers Bangalore"
-"187",335997,"Mumbai Indians"
-"188",335996,"Royal Challengers Bangalore"
-"189",335995,"Kings XI Punjab"
-"190",335994,"Mumbai Indians"
-"191",335993,"Chennai Super Kings"
-"192",335992,"Royal Challengers Bangalore"
-"193",335991,"Kings XI Punjab"
-"194",335990,"Rajasthan Royals"
-"195",335989,"Chennai Super Kings"
-"196",335988,"Delhi Daredevils"
-"197",335987,"Rajasthan Royals"
-"198",335986,"Kolkata Knight Riders"
-"199",335985,"Mumbai Indians"
-"200",335984,"Delhi Daredevils"
-"201",335983,"Kings XI Punjab"
-"202",335982,"Royal Challengers Bangalore"
+,file,testPred,testPred2,testPred3,actual_win,acc1,acc2,acc3
+202,335982,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,0,0,0
+201,335983,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,0,0,0
+200,335984,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,1,1,1
+199,335985,Mumbai Indians,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,0,0,0
+198,335986,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+197,335987,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+196,335988,Delhi Daredevils,Delhi Daredevils,#N/A,Delhi Daredevils,1,1,0
+195,335989,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,1,0
+194,335990,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,1,0,1
+193,335991,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,1,0
+192,335992,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,0,1,0
+191,335993,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+190,335994,Mumbai Indians,Mumbai Indians,#N/A,Deccan Chargers,0,0,0
+189,335995,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+188,335996,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,0,1
+187,335997,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+186,335998,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,0,0,0
+185,335999,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+184,336000,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+183,336001,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,0,0,0
+182,336002,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+181,336003,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,1,0,1
+180,336004,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+179,336005,Rajasthan Royals,Rajasthan Royals,#N/A,Rajasthan Royals,1,1,0
+178,336006,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,0,1
+177,336007,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,0,0,0
+176,336008,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+175,336009,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+174,336010,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,1,0,1
+173,336011,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+172,336012,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,0,1,0
+171,336013,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+170,336014,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+169,336015,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+168,336016,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+167,336017,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+166,336018,Mumbai Indians,Mumbai Indians,#N/A,Mumbai Indians,1,1,0
+165,336019,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+164,336020,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,1,1,1
+163,336021,Mumbai Indians,#N/A,#N/A,Mumbai Indians,1,0,0
+162,336022,Kings XI Punjab,Kings XI Punjab,#N/A,Kings XI Punjab,1,1,0
+161,336023,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+160,336024,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+159,336025,Chennai Super Kings,Chennai Super Kings,#N/A,Chennai Super Kings,1,1,0
+158,336026,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,0,0,1
+157,336027,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,0,0,0
+156,336028,Mumbai Indians,Mumbai Indians,Mumbai Indians,Kings XI Punjab,0,0,0
+155,336029,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,0,0,0
+154,336031,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+153,336032,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,1,1,1
+152,336033,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,0,0,0
+151,336034,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+150,336035,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+149,336036,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+148,336037,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,1,1,0
+147,336038,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+146,336039,Chennai Super Kings,Chennai Super Kings,#N/A,Chennai Super Kings,1,1,0
+145,336040,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,0,0,0
+144,392181,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,0,1
+143,392182,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,0,1,0
+142,392183,Kings XI Punjab,#N/A,#N/A,Delhi Daredevils,0,0,0
+141,392184,Kolkata Knight Riders,Kolkata Knight Riders,#N/A,Deccan Chargers,0,0,0
+140,392185,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+139,392186,Kolkata Knight Riders,Kolkata Knight Riders,#N/A,Kolkata Knight Riders,1,1,0
+138,392188,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,0,0,0
+137,392189,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,0,0,0
+136,392190,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,tie,0,0,0
+135,392191,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+134,392192,Mumbai Indians,Mumbai Indians,Mumbai Indians,Deccan Chargers,0,0,0
+133,392194,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,0,0,1
+132,392195,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,0,0,0
+131,392196,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,0,0,0
+130,392197,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,0
+129,392198,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+128,392199,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,0,0,0
+127,392200,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,1,0,1
+126,392201,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,1,1,1
+125,392202,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+124,392203,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,0,1
+123,392204,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,0,1,0
+122,392205,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+121,392206,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+120,392207,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,0,0,0
+119,392208,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+118,392209,Chennai Super Kings,Chennai Super Kings,#N/A,Chennai Super Kings,1,1,0
+117,392210,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+116,392211,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,0,0,1
+115,392212,Mumbai Indians,Mumbai Indians,Mumbai Indians,Deccan Chargers,0,0,0
+114,392213,Rajasthan Royals,Rajasthan Royals,#N/A,Rajasthan Royals,1,1,0
+113,392214,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,1,0,0
+112,392215,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Delhi Daredevils,1,0,0
+111,392216,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+110,392217,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+109,392218,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+108,392219,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,1,0,1
+107,392220,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Deccan Chargers,0,0,0
+106,392221,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,0,1
+105,392222,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+104,392223,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,1,1,1
+103,392224,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0,1,0
+102,392225,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Rajasthan Royals,1,0,0
+101,392226,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+100,392227,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,0,1,1
+99,392228,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Deccan Chargers,0,0,0
+98,392229,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+97,392230,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,0,0,0
+96,392231,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,1,0
+95,392232,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+94,392233,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,0,1,1
+93,392234,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,1,1,0
+92,392235,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,1,0,1
+91,392236,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+90,392237,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Deccan Chargers,0,0,0
+89,392238,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0,1,0
+88,392239,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0,0,1
+87,419106,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+86,419107,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+85,419108,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,0,0,0
+84,419109,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+83,419110,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,0,0,0
+82,419111,Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,0,0,1
+81,419112,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+80,419113,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,0,0,0
+79,419114,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Mumbai Indians,1,1,0
+78,419115,Royal Challengers Bangalore,Royal Challengers Bangalore,#N/A,Royal Challengers Bangalore,1,1,0
+77,419116,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+76,419117,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Deccan Chargers,0,0,0
+75,419118,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+74,419119,Mumbai Indians,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,0,0,0
+73,419120,Delhi Daredevils,Delhi Daredevils,Deccan Chargers,Deccan Chargers,0,0,1
+72,419121,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,tie,0,0,0
+71,419122,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+70,419123,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,0,1,0
+69,419124,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,0,1,1
+68,419125,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+67,419126,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+66,419127,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,0,0,0
+65,419128,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,0,0,0
+64,419129,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,0,0,0
+63,419130,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+62,419131,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,1,0,0
+61,419132,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+60,419133,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+59,419134,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,0,0,0
+58,419135,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+57,419136,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,0,0,0
+56,419137,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+55,419138,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+54,419139,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,0,0,0
+53,419140,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,0,0,0
+52,419141,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+51,419142,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,0,1,1
+50,419143,Rajasthan Royals,Rajasthan Royals,#N/A,Rajasthan Royals,1,1,0
+49,419144,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+48,419145,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,0,0,0
+47,419146,Mumbai Indians,Mumbai Indians,Mumbai Indians,Kings XI Punjab,0,0,0
+46,419147,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,0,0,0
+45,419148,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+44,419149,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+43,419150,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,0,0,0
+42,419151,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0,0,1
+41,419152,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+40,419153,Chennai Super Kings,Chennai Super Kings,#N/A,Chennai Super Kings,1,1,0
+39,419154,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+38,419155,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,0,0,0
+37,419156,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Deccan Chargers,0,0,0
+36,419157,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+35,419158,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+34,419159,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,0,0,0
+33,419160,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Deccan Chargers,0,0,0
+32,419161,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+31,419162,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+30,419163,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+29,419164,Royal Challengers Bangalore,Deccan Chargers,#N/A,Royal Challengers Bangalore,1,0,0
+28,419165,Mumbai Indians,Mumbai Indians,Mumbai Indians,Chennai Super Kings,0,0,0
+27,501198,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,0,1,1
+26,501199,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+25,501200,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+24,501201,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,0,0,0
+23,501202,Kings XI Punjab,Kings XI Punjab,#N/A,Pune Warriors,0,0,0
+22,501203,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,1,1,1
+21,501204,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,1,1,1
+20,501205,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,1,0
+19,501206,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+18,501207,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Pune Warriors,0,0,0
+17,501208,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,1,0,1
+16,501209,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,0,0,0
+15,501210,Mumbai Indians,Mumbai Indians,Mumbai Indians,Kochi Tuskers Kerala,0,0,0
+14,501211,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,1,1,1
+13,501212,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,1,1,1
+12,501213,Pune Warriors,Pune Warriors,Pune Warriors,Delhi Daredevils,0,0,0
+11,501214,Kolkata Knight Riders,Kolkata Knight Riders,#N/A,Kolkata Knight Riders,1,1,0
+10,501215,Chennai Super Kings,Chennai Super Kings,#N/A,Kochi Tuskers Kerala,0,0,0
+9,501216,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Deccan Chargers,0,0,0
+8,501218,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+7,501219,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kochi Tuskers Kerala,0,0,0
+6,501220,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,1,0
+5,501221,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,0,1
+4,501222,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,1,1,1
+3,501223,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,0,0,0
+2,501224,Mumbai Indians,Mumbai Indians,Mumbai Indians,Mumbai Indians,1,1,1
+1,501225,Rajasthan Royals,Rajasthan Royals,#N/A,Rajasthan Royals,1,1,0
+,,,,,,,,
+,,,,,,123,,
