@@ -78,7 +78,7 @@ if(select == 1){
   
   idx <- sample(1:dim(data2)[1], number_of_samples)
   
-  sampleData <- data2[idx ,]
+  sampleData <- data2[idx ,]  #Pick random samples from data2
   
   hc <- hclust(dist(sampleData), method="centroid" )
   
