@@ -1,5 +1,7 @@
 library(party)
 
+library(ggplot2)
+
 library(randomForest)
 
 segment_one <- read.csv("/home/aditya9509/Cricket/prediction data generated/first_six_overs.csv")
@@ -30,9 +32,7 @@ for(i in 1:nrow(segment_three)){
     
   }
   
-  
 }
-
 segment_three$win_bat_first <- as.factor(segment_three$win_bat_first)
 
 segment_three$win_toss_1 <- as.factor(segment_three$win_toss_1)
@@ -117,7 +117,9 @@ train_data$ORN <- r*c(scale(train_data$ORN))
 
 #output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
 
-output.tree <- randomForest(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
+output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
+
+plot(output.tree)
 
 test_data = data.frame(file = test_data$file,  venue = test_data$venue, win_toss_1 = test_data$win_toss_1,team1 = test_data$team1, team2 = test_data$team2, MR = c(scale(test_data$MR)),   MRN = c(scale(test_data$MRN)),  MW = c(scale(test_data$MW)),   OR   = c(scale(test_data$OR)), ORN  = c(scale(test_data$ORN)), OW   = c(scale(test_data$OW)) ,win_bat_first = test_data$win_bat_first)
 
