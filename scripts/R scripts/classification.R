@@ -6,11 +6,14 @@ library(randomForest)
 
 library(e1071)
 
-segment_one <- read.csv("/home/aditya9509/Cricket/prediction data generated/first_six_overs.csv")
+library(caret)
 
-segment_two <- read.csv("/home/aditya9509/Cricket/prediction data generated/seven_fifteen_overs.csv")
 
-segment_three <- read.csv("/home/aditya9509/Cricket/prediction data generated/sixteen_twenty_overs.csv")
+segment_one <- read.csv("./../../prediction data generated/first_six_overs.csv")
+
+segment_two <- read.csv("./../../prediction data generated/seven_fifteen_overs.csv")
+
+segment_three <- read.csv("./../../prediction data generated/sixteen_twenty_overs.csv")
 
 for(i in 1:nrow(segment_three)){
   
@@ -117,13 +120,13 @@ train_data$ORN <- r*c(scale(train_data$ORN))
 
 #output.tree <- randomForest(win ~ team1 + team2 +  (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
 
-#output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
+output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
 
 #output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
 
 #plot(output.tree)
 
-output.tree <- svm(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
+#output.tree <- svm(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
 
 
 
@@ -174,6 +177,7 @@ predictions <- data.frame(testPred)
 #count
 
 result = summary(testPred == test_data$win_bat_first)
+#confusionMatrix(testPred, test_data$win_bat_first)
 
 result
 
