@@ -112,9 +112,9 @@ train_data$MW <- b*c(scale(train_data$MW))
 
 train_data$OW <- b*c(scale(train_data$OW))
 
-train_data$MRN <- r*c(scale(train_data$MRN))
+train_data$MRN <- a*c(scale(train_data$MRN))
 
-train_data$ORN <- r*c(scale(train_data$ORN))
+train_data$ORN <- a*c(scale(train_data$ORN))
 
 #win_bat_first
 
@@ -126,7 +126,7 @@ output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + (MW/MR) + (OW/
 
 #plot(output.tree)
 
-#output.tree <- svm(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
+output.tree <- svm(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
 
 
 
@@ -177,7 +177,7 @@ predictions <- data.frame(testPred)
 #count
 
 result = summary(testPred == test_data$win_bat_first)
-#confusionMatrix(testPred, test_data$win_bat_first)
+confusionMatrix(testPred, test_data$win_bat_first)
 
 result
 
