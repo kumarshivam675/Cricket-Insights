@@ -4,6 +4,8 @@ library(ggplot2)
 
 library(randomForest)
 
+library(e1071)
+
 segment_one <- read.csv("/home/aditya9509/Cricket/prediction data generated/first_six_overs.csv")
 
 segment_two <- read.csv("/home/aditya9509/Cricket/prediction data generated/seven_fifteen_overs.csv")
@@ -47,9 +49,9 @@ segment_three$win_toss_1 <- as.factor(segment_three$win_toss_1)
 
 #85 100/156  a = .57
 
-#382462346 107/156 a = 0.82 r = 9   ration075--> 71.538% acc , ratio70 ---> 71.333% acc
+#svm --> 382462346 107/156 a = 0.82 r = 9   ration075--> 71.538% acc , ratio70 ---> 71.333% acc  ctree --> 382462312
 
-set.seed(382462346)
+set.seed(382462312)
 
 segment_three <- segment_three[sample(nrow(segment_three)),]
 
@@ -117,9 +119,13 @@ train_data$ORN <- r*c(scale(train_data$ORN))
 
 #output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
 
-output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
+#output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
 
-plot(output.tree)
+#plot(output.tree)
+
+output.tree <- svm(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
+
+
 
 test_data = data.frame(file = test_data$file,  venue = test_data$venue, win_toss_1 = test_data$win_toss_1,team1 = test_data$team1, team2 = test_data$team2, MR = c(scale(test_data$MR)),   MRN = c(scale(test_data$MRN)),  MW = c(scale(test_data$MW)),   OR   = c(scale(test_data$OR)), ORN  = c(scale(test_data$ORN)), OW   = c(scale(test_data$OW)) ,win_bat_first = test_data$win_bat_first)
 
@@ -167,6 +173,10 @@ predictions <- data.frame(testPred)
 
 #count
 
-summary(testPred == test_data$win_bat_first)
+result = summary(testPred == test_data$win_bat_first)
+
+result
+
+100*strtoi(result[3])/(strtoi(result[3]) + strtoi(result[2]))  #---- Accuracy % on test data
 
 #write.csv(data.frame(test_data$file , testPred) , file = "/home/aditya9509/Cricket/prediction data generated/classification4.csv" )
