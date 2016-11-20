@@ -1,0 +1,92 @@
+#------------------------------------------------------------------------------------------------------#
+rules.all = apriori(bb, parameter = list(minlen=2, supp=0.001, conf=0.1),
+                    appearance = list(lhs = c("op_partner_name=CH Gayle-TM Dilshan" ), 
+                                      default = "rhs"))
+
+> inspect(rules.all)
+lhs                                      rhs                                         support confidence      lift
+[1] {op_partner_name=CH Gayle-TM Dilshan} => {op_winner=Royal Challengers Bangalore} 0.012027491  0.7368421 6.2151030
+[2] {op_partner_name=CH Gayle-TM Dilshan} => {op_winner=Mumbai Indians}              0.001718213  0.1052632 0.7657895
+[3] {op_partner_name=CH Gayle-TM Dilshan} => {partnership_label=HIGH}                0.010309278  0.6315789 1.6520402
+[4] {op_partner_name=CH Gayle-TM Dilshan} => {partnership_label=LOW}                 0.006013746  0.3684211 0.5964424
+#-----------------------------------------------------------------------------------------------------------------#
+
+rules.all = apriori(bb, parameter = list(minlen=2, supp=0.001, conf=0.7),
+                    appearance = list(lhs = c("op_partner_name=CH Gayle-TM Dilshan" ,"partnership_label=HIGH"), 
+                                      default = "rhs"))
+
+> inspect(rules.all)
+lhs                                      rhs                                         support confidence     lift
+[1] {op_partner_name=CH Gayle-TM Dilshan} => {op_winner=Royal Challengers Bangalore} 0.012027491  0.7368421 6.215103
+[2] {op_partner_name=CH Gayle-TM Dilshan,                                                                           
+partnership_label=HIGH}              => {op_winner=Royal Challengers Bangalore} 0.008591065  0.8333333 7.028986
+> 
+#-------------------------------------------------------------------------------------------------------------------#
+rules.all = apriori(bb, parameter = list(minlen=2, supp=0.001, conf=0.5),
+                    appearance = list(lhs = c("op_partner_name=CH Gayle-V Kohli" ,"partnership_label=HIGH"), 
+                                     default = "rhs"))
+                                     
+
+> inspect(rules.all)
+    lhs                                   rhs                                         support confidence      lift
+[1] {op_partner_name=CH Gayle-V Kohli} => {op_winner=Royal Challengers Bangalore} 0.012886598       0.60 5.0608696
+[2] {op_partner_name=CH Gayle-V Kohli} => {partnership_label=LOW}                 0.011168385       0.52 0.8418359
+[3] {op_partner_name=CH Gayle-V Kohli,                                                                            
+     partnership_label=HIGH}           => {op_winner=Royal Challengers Bangalore} 0.007731959       0.75 6.3260870
+> 
+#----------------------------------------------------------------------------------------------------------------#
+rules.all = apriori(bb, parameter = list(minlen=2, supp=0.01, conf=0.9))
+
+> inspect(rules.al .... [TRUNCATED] 
+    lhs                                                          rhs                support    confidence lift    
+[1] {Win_team=win_team_Kochi Tuskers Kerala}                  => {Elected_to=field} 0.01081081 1          1.843854
+[2] {Toss=Toss_Gujarat Lions}                                 => {Elected_to=field} 0.01441441 1          1.843854
+[3] {Toss=Toss_Gujarat Lions,Win_team=win_team_Gujarat Lions} => {Elected_to=field} 0.01081081 1          1.843854
+
+#--------------------------------------------------------------------------------------------------------------#
+rules.all = apriori(bb, parameter = list(minlen=2, supp=0.0001, conf=0.6),
+appearance = list(rhs = c("Win_team=win_team_Royal Challengers Bangalore"), 
+                 default = "lhs"))
+                 
+> inspect(rules.all)
+    lhs                                 rhs                                                 support confidence     lift
+[1] {Toss=Toss_Kochi Tuskers Kerala,                                                                                   
+     Elected_to=bat}                 => {Win_team=win_team_Royal Challengers Bangalore} 0.003603604  0.6666667 5.522388
+#---------------------------------------------------------------------------------------------------------------#
+
+rules.all = apriori(bb, parameter = list(minlen=2, supp=0.01, conf=0.6),
+appearance = list(rhs = c("Win_team=win_team_Royal Challengers Bangalore"), 
+                 default = "lhs"))
+rules.all <- sort(rules.all, by="lift")
+
+> inspect(rules.all)
+    lhs                                        rhs                                                support confidence     lift
+[1] {Toss=Toss_Royal Challengers Bangalore,                                                                                  
+     Elected_to=field,                                                                                                       
+     City=Bangalore}                        => {Win_team=win_team_Royal Challengers Bangalore} 0.01981982  0.6111111 5.062189
+#------------------------------------------------------------------------------------------------------------------------#
+
+rules.all = apriori(bb, parameter = list(minlen=2, supp=0.01, conf=0.6),
+appearance = list(lhs = c("City=Bangalore"), 
+                 default = "rhs"))
+rules.all <- sort(rules.all, by="lift")
+
+> inspect(rules.all)
+    lhs                 rhs                support    confidence lift    
+[1] {City=Bangalore} => {Elected_to=field} 0.08468468 0.8545455  1.575657
+
+#-------------------------------------------------------------------------------------------------------------------------#
+apriori(bb, parameter = list(minlen=2, supp=0.01, conf=0.9))
+
+> inspect(rules.all)
+    lhs                                        rhs                              support confidence      lift
+[1] {Toss=Toss_Pune Warriors,                                                                               
+     Elected_to=field}                      => {loser=loser_Pune Warriors}   0.01621622  1.0000000 16.818182
+[2] {Toss=Toss_Deccan Chargers,                                                                             
+#-------------------------------------------------------------------------------------------------------------------------#
+{Venue=Feroz Shah Kotla, Elected_to=field} => {Team1_id=Team1_id_ Delhi Daredevils} 0.05225225  0.9354839 7.866569
+
+{Elected_to=bat, Win_team=win_team_Chennai Super Kings} => {Team1_id=Team1_id_ Chennai Super Kings} 0.06306306  0.7291667 5.620660
+minlen=3, supp=0.06, conf=0.8
+
+#------------------------------------------------------------------------------------------------------------------------#
