@@ -1,0 +1,556 @@
+Match_id,Team1_id,Team2_id,Venue,City,Toss,Elected_to,Win_team,loser,Date,Win_by_wickets,win_by_runs
+419108,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Kings XI Punjab,3/13/2010,5,0
+392221,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,SuperSport Park,Centurion,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,5/12/2009,6,0
+501208,Team1_id_ Deccan Chargers,Team2_id_Royal Challengers Bangalore,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Royal Challengers Bangalore,field,win_team_Deccan Chargers,loser_Royal Challengers Bangalore,4/14/2011,0,3
+548332,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Rajasthan Royals,bat,win_team_Chennai Super Kings,loser_Rajasthan Royals,4/21/2012,7,0
+335997,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Mumbai Indians,loser_Kolkata Knight Riders,4/29/2008,7,0
+419124,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Rajasthan Royals,loser_Kings XI Punjab,3/24/2010,0,3
+548364,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Delhi Daredevils,5/12/2012,9,0
+980931,Team1_id_ Rising Pune Supergiants,Team2_id_Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Pune,Toss_Rising Pune Supergiants,field,win_team_Royal Challengers Bangalore,loser_Rising Pune Supergiants,4/22/2016,0,1
+981003,Team1_id_ Delhi Daredevils,Team2_id_Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Sunrisers Hyderabad,5/20/2016,6,0
+548329,Team1_id_ Deccan Chargers,Team2_id_Delhi Daredevils,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,bat,win_team_Delhi Daredevils,loser_Deccan Chargers,5/10/2012,9,0
+980989,Team1_id_ Kolkata Knight Riders,Team2_id_Rising Pune Supergiants,Eden Gardens,Kolkata,Toss_Rising Pune Supergiants,bat,win_team_Kolkata Knight Riders,loser_Rising Pune Supergiants,5/14/2016,8,0
+980955,Team1_id_ Gujarat Lions,Team2_id_Kings XI Punjab,Saurashtra Cricket Association Stadium,Rajkot,Toss_Gujarat Lions,field,win_team_Kings XI Punjab,loser_Gujarat Lions,5/1/2016,0,2
+392222,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,SuperSport Park,Centurion,Toss_Kings XI Punjab,bat,win_team_Mumbai Indians,loser_Kings XI Punjab,5/12/2009,8,0
+392225,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Kingsmead,Durban,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Mumbai Indians,5/14/2009,0,0
+419149,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Kings XI Punjab,loser_Delhi Daredevils,4/11/2010,7,0
+829743,Team1_id_ Sunrisers Hyderabad,Team2_id_Kolkata Knight Riders,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Kolkata Knight Riders,field,win_team_Sunrisers Hyderabad,loser_Kolkata Knight Riders,4/22/2015,0,1
+548330,Team1_id_ Chennai Super Kings,Team2_id_Pune Warriors,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Pune Warriors,field,win_team_Chennai Super Kings,loser_Pune Warriors,4/19/2012,0,1
+501248,Team1_id_ Kings XI Punjab,Team2_id_Pune Warriors,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,bat,win_team_Pune Warriors,loser_Kings XI Punjab,5/8/2011,5,0
+501241,Team1_id_ Pune Warriors,Team2_id_Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,Toss_Pune Warriors,field,win_team_Mumbai Indians,loser_Pune Warriors,5/4/2011,0,2
+829811,Team1_id_ Rajasthan Royals,Team2_id_Kolkata Knight Riders,Brabourne Stadium,Mumbai,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Kolkata Knight Riders,5/16/2015,0,0
+335983,Team1_id_ Kings XI Punjab,Team2_id_Chennai Super Kings,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kings XI Punjab,4/19/2008,0,3
+419147,Team1_id_ Deccan Chargers,Team2_id_Chennai Super Kings,Vidarbha Cricket Association Stadium  Jamtha,Nagpur,Toss_Chennai Super Kings,bat,win_team_Deccan Chargers,loser_Chennai Super Kings,4/10/2010,6,0
+829783,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Wankhede Stadium,Mumbai,Toss_Delhi Daredevils,bat,win_team_Mumbai Indians,loser_Delhi Daredevils,5/5/2015,5,0
+501262,Team1_id_ Pune Warriors,Team2_id_Kolkata Knight Riders,Dr DY Patil Sports Academy,Mumbai,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Pune Warriors,5/19/2011,7,0
+336020,Team1_id_ Delhi Daredevils,Team2_id_Deccan Chargers,Feroz Shah Kotla,Delhi,Toss_Deccan Chargers,field,win_team_Delhi Daredevils,loser_Deccan Chargers,5/15/2008,0,1
+419113,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,3/16/2010,0,5
+548356,Team1_id_ Royal Challengers Bangalore,Team2_id_Deccan Chargers,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Deccan Chargers,5/6/2012,5,0
+980953,Team1_id_ Sunrisers Hyderabad,Team2_id_Royal Challengers Bangalore,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Royal Challengers Bangalore,field,win_team_Sunrisers Hyderabad,loser_Royal Challengers Bangalore,4/30/2016,0,1
+598030,Team1_id_ Chennai Super Kings,Team2_id_Sunrisers Hyderabad,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Sunrisers Hyderabad,bat,win_team_Chennai Super Kings,loser_Sunrisers Hyderabad,4/25/2013,5,0
+392202,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,SuperSport Park,Centurion,Toss_Rajasthan Royals,field,win_team_Chennai Super Kings,loser_Rajasthan Royals,4/30/2009,0,3
+548319,Team1_id_ Kings XI Punjab,Team2_id_Pune Warriors,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Pune Warriors,4/12/2012,7,0
+829805,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Wankhede Stadium,Mumbai,Toss_Kolkata Knight Riders,field,win_team_Mumbai Indians,loser_Kolkata Knight Riders,5/14/2015,0,0
+501226,Team1_id_ Chennai Super Kings,Team2_id_Pune Warriors,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Pune Warriors,field,win_team_Chennai Super Kings,loser_Pune Warriors,4/25/2011,0,2
+548339,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,bat,win_team_Mumbai Indians,loser_Kings XI Punjab,4/25/2012,4,0
+729305,Team1_id_ Rajasthan Royals,Team2_id_Royal Challengers Bangalore,Sheikh Zayed Stadium,Abu Dhabi,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Royal Challengers Bangalore,4/26/2014,6,0
+548336,Team1_id_ Rajasthan Royals,Team2_id_Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,4/23/2012,0,4
+419117,Team1_id_ Deccan Chargers,Team2_id_Kings XI Punjab,Barabati Stadium,Cuttack,Toss_Kings XI Punjab,field,win_team_Deccan Chargers,loser_Kings XI Punjab,3/19/2010,0,0
+501225,Team1_id_ Rajasthan Royals,Team2_id_Kochi Tuskers Kerala,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Kochi Tuskers Kerala,4/24/2011,8,0
+501267,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Kolkata Knight Riders,5/22/2011,5,0
+980973,Team1_id_ Mumbai Indians,Team2_id_Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Mumbai Indians,field,win_team_Sunrisers Hyderabad,loser_Mumbai Indians,5/8/2016,0,8
+548358,Team1_id_ Pune Warriors,Team2_id_Rajasthan Royals,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,bat,win_team_Rajasthan Royals,loser_Pune Warriors,5/8/2012,7,0
+829773,Team1_id_ Sunrisers Hyderabad,Team2_id_Chennai Super Kings,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Chennai Super Kings,field,win_team_Sunrisers Hyderabad,loser_Chennai Super Kings,5/2/2015,0,2
+829767,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Kings XI Punjab,5/1/2015,9,0
+980923,Team1_id_ Sunrisers Hyderabad,Team2_id_Mumbai Indians,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Mumbai Indians,4/18/2016,7,0
+419151,Team1_id_ Deccan Chargers,Team2_id_Royal Challengers Bangalore,Vidarbha Cricket Association Stadium  Jamtha,Nagpur,Toss_Royal Challengers Bangalore,field,win_team_Deccan Chargers,loser_Royal Challengers Bangalore,4/12/2010,0,1
+981017,Team1_id_ Gujarat Lions,Team2_id_Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Gujarat Lions,5/27/2016,4,0
+501200,Team1_id_ Kochi Tuskers Kerala,Team2_id_Royal Challengers Bangalore,Nehru Stadium,Kochi,Toss_Kochi Tuskers Kerala,bat,win_team_Royal Challengers Bangalore,loser_Kochi Tuskers Kerala,4/9/2011,6,0
+392213,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,SuperSport Park,Centurion,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Royal Challengers Bangalore,5/7/2009,7,0
+598021,Team1_id_ Sunrisers Hyderabad,Team2_id_Kings XI Punjab,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Kings XI Punjab,bat,win_team_Sunrisers Hyderabad,loser_Kings XI Punjab,4/19/2013,5,0
+829819,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,Toss_Royal Challengers Bangalore,bat,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,5/20/2015,0,7
+598067,Team1_id_ Pune Warriors,Team2_id_Delhi Daredevils,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,bat,win_team_Pune Warriors,loser_Delhi Daredevils,5/19/2013,0,3
+501201,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Mumbai Indians,loser_Delhi Daredevils,4/10/2011,8,0
+981015,Team1_id_ Sunrisers Hyderabad,Team2_id_Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Toss_Kolkata Knight Riders,field,win_team_Sunrisers Hyderabad,loser_Kolkata Knight Riders,5/25/2016,0,2
+336038,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,Wankhede Stadium,Mumbai,Toss_Delhi Daredevils,field,win_team_Rajasthan Royals,loser_Delhi Daredevils,5/30/2008,0,10
+419129,Team1_id_ Rajasthan Royals,Team2_id_Chennai Super Kings,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Chennai Super Kings,3/28/2010,0,1
+829807,Team1_id_ Sunrisers Hyderabad,Team2_id_Royal Challengers Bangalore,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,bat,win_team_Royal Challengers Bangalore,loser_Sunrisers Hyderabad,5/15/2015,6,0
+598026,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Rajasthan Royals,bat,win_team_Chennai Super Kings,loser_Rajasthan Royals,4/22/2013,5,0
+336009,Team1_id_ Delhi Daredevils,Team2_id_Chennai Super Kings,Feroz Shah Kotla,Delhi,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Delhi Daredevils,5/8/2008,4,0
+548353,Team1_id_ Kolkata Knight Riders,Team2_id_Pune Warriors,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Pune Warriors,5/5/2012,0,0
+419162,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,4/21/2010,0,3
+419115,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,3/18/2010,10,0
+392200,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Kingsmead,Durban,Toss_Kings XI Punjab,bat,win_team_Kings XI Punjab,loser_Mumbai Indians,4/29/2009,0,0
+548333,Team1_id_ Delhi Daredevils,Team2_id_Pune Warriors,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Pune Warriors,loser_Delhi Daredevils,4/21/2012,0,2
+980969,Team1_id_ Royal Challengers Bangalore,Team2_id_Rising Pune Supergiants,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Rising Pune Supergiants,5/7/2016,7,0
+501229,Team1_id_ Kochi Tuskers Kerala,Team2_id_Deccan Chargers,Nehru Stadium,Kochi,Toss_Kochi Tuskers Kerala,field,win_team_Deccan Chargers,loser_Kochi Tuskers Kerala,4/27/2011,0,5
+598011,Team1_id_ Mumbai Indians,Team2_id_Pune Warriors,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Pune Warriors,4/13/2013,0,4
+734029,Team1_id_ Chennai Super Kings,Team2_id_Sunrisers Hyderabad,JSCA International Stadium Complex,Ranchi,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Chennai Super Kings,5/22/2014,6,0
+733997,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Barabati Stadium,Cuttack,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,5/11/2014,9,0
+335994,Team1_id_ Mumbai Indians,Team2_id_Deccan Chargers,Dr DY Patil Sports Academy,Mumbai,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Mumbai Indians,4/27/2008,10,0
+734027,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,Eden Gardens,Kolkata,Toss_Royal Challengers Bangalore,field,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,5/22/2014,0,3
+548362,Team1_id_ Pune Warriors,Team2_id_Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,field,win_team_Royal Challengers Bangalore,loser_Pune Warriors,5/11/2012,0,3
+598053,Team1_id_ Pune Warriors,Team2_id_Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Pune Warriors,5/9/2013,0,4
+548370,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Kolkata Knight Riders,loser_Mumbai Indians,5/16/2012,0,3
+598070,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Mumbai Indians,5/21/2013,0,4
+501230,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,4/28/2011,0,1
+392230,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,OUTsurance Oval,Bloemfontein,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Rajasthan Royals,5/17/2009,0,1
+392239,Team1_id_ Royal Challengers Bangalore,Team2_id_Deccan Chargers,New Wanderers Stadium,Johannesburg,Toss_Royal Challengers Bangalore,field,win_team_Deccan Chargers,loser_Royal Challengers Bangalore,5/24/2009,0,0
+335989,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Mumbai Indians,field,win_team_Chennai Super Kings,loser_Mumbai Indians,4/23/2008,0,0
+598020,Team1_id_ Delhi Daredevils,Team2_id_Chennai Super Kings,Feroz Shah Kotla,Delhi,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Delhi Daredevils,4/18/2013,0,8
+829821,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,JSCA International Stadium Complex,Ranchi,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,5/22/2015,3,0
+598033,Team1_id_ Mumbai Indians,Team2_id_Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,4/27/2013,0,5
+501202,Team1_id_ Pune Warriors,Team2_id_Kings XI Punjab,Dr DY Patil Sports Academy,Mumbai,Toss_Kings XI Punjab,bat,win_team_Pune Warriors,loser_Kings XI Punjab,4/10/2011,7,0
+335992,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Royal Challengers Bangalore,4/26/2008,7,0
+598019,Team1_id_ Rajasthan Royals,Team2_id_Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Mumbai Indians,4/17/2013,0,8
+598039,Team1_id_ Sunrisers Hyderabad,Team2_id_Mumbai Indians,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Mumbai Indians,bat,win_team_Sunrisers Hyderabad,loser_Mumbai Indians,5/1/2013,7,0
+598060,Team1_id_ Mumbai Indians,Team2_id_Sunrisers Hyderabad,Wankhede Stadium,Mumbai,Toss_Sunrisers Hyderabad,bat,win_team_Mumbai Indians,loser_Sunrisers Hyderabad,5/13/2013,7,0
+598005,Team1_id_ Rajasthan Royals,Team2_id_Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Toss_Kolkata Knight Riders,field,win_team_Rajasthan Royals,loser_Kolkata Knight Riders,4/8/2013,0,1
+829723,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Chennai Super Kings,4/30/2015,7,0
+598044,Team1_id_ Sunrisers Hyderabad,Team2_id_Delhi Daredevils,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Delhi Daredevils,bat,win_team_Sunrisers Hyderabad,loser_Delhi Daredevils,5/4/2013,6,0
+729307,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Sheikh Zayed Stadium,Abu Dhabi,Toss_Kolkata Knight Riders,field,win_team_Kings XI Punjab,loser_Kolkata Knight Riders,4/26/2014,0,2
+980991,Team1_id_ Kings XI Punjab,Team2_id_Sunrisers Hyderabad,Punjab Cricket Association IS Bindra Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,bat,win_team_Sunrisers Hyderabad,loser_Kings XI Punjab,5/15/2016,7,0
+392223,Team1_id_ Deccan Chargers,Team2_id_Delhi Daredevils,Kingsmead,Durban,Toss_Deccan Chargers,field,win_team_Delhi Daredevils,loser_Deccan Chargers,5/13/2009,0,1
+419125,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Brabourne Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Chennai Super Kings,3/25/2010,5,0
+980907,Team1_id_ Royal Challengers Bangalore,Team2_id_Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Toss_Sunrisers Hyderabad,field,win_team_Royal Challengers Bangalore,loser_Sunrisers Hyderabad,4/12/2016,0,4
+336027,Team1_id_ Kolkata Knight Riders,Team2_id_Rajasthan Royals,Eden Gardens,Kolkata,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Kolkata Knight Riders,5/20/2008,6,0
+598048,Team1_id_ Royal Challengers Bangalore,Team2_id_Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Toss_Sunrisers Hyderabad,bat,win_team_Royal Challengers Bangalore,loser_Sunrisers Hyderabad,4/9/2013,7,0
+335984,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,Feroz Shah Kotla,Delhi,Toss_Rajasthan Royals,bat,win_team_Delhi Daredevils,loser_Rajasthan Royals,4/19/2008,9,0
+419109,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,3/14/2010,7,0
+980921,Team1_id_ Royal Challengers Bangalore,Team2_id_Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Royal Challengers Bangalore,4/17/2016,7,0
+548307,Team1_id_ Kolkata Knight Riders,Team2_id_Delhi Daredevils,Eden Gardens,Kolkata,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Kolkata Knight Riders,4/5/2012,8,0
+392227,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,St George's Park,Port Elizabeth,Toss_Mumbai Indians,bat,win_team_Chennai Super Kings,loser_Mumbai Indians,5/16/2009,7,0
+733993,Team1_id_ Delhi Daredevils,Team2_id_Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Delhi Daredevils,5/10/2014,8,0
+392231,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,SuperSport Park,Centurion,Toss_Chennai Super Kings,bat,win_team_Kolkata Knight Riders,loser_Chennai Super Kings,5/18/2009,7,0
+734025,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Kings XI Punjab,5/21/2014,7,0
+829705,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Mumbai Indians,4/8/2015,7,0
+392207,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,St George's Park,Port Elizabeth,Toss_Kolkata Knight Riders,bat,win_team_Kings XI Punjab,loser_Kolkata Knight Riders,5/3/2009,6,0
+419114,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Mumbai Indians,loser_Delhi Daredevils,3/17/2010,0,9
+829793,Team1_id_ Delhi Daredevils,Team2_id_Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Raipur,Toss_Sunrisers Hyderabad,bat,win_team_Sunrisers Hyderabad,loser_Delhi Daredevils,5/9/2015,0,0
+598061,Team1_id_ Kolkata Knight Riders,Team2_id_Pune Warriors,JSCA International Stadium Complex,Ranchi,Toss_Kolkata Knight Riders,field,win_team_Pune Warriors,loser_Kolkata Knight Riders,5/15/2013,0,0
+980917,Team1_id_ Mumbai Indians,Team2_id_Gujarat Lions,Wankhede Stadium,Mumbai,Toss_Gujarat Lions,field,win_team_Gujarat Lions,loser_Mumbai Indians,4/16/2016,3,0
+392189,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,Kingsmead,Durban,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Chennai Super Kings,4/23/2009,0,0
+598015,Team1_id_ Chennai Super Kings,Team2_id_Pune Warriors,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Pune Warriors,bat,win_team_Pune Warriors,loser_Chennai Super Kings,4/15/2013,0,2
+548325,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Wankhede Stadium,Mumbai,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Mumbai Indians,4/16/2012,7,0
+980967,Team1_id_ Sunrisers Hyderabad,Team2_id_Gujarat Lions,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Gujarat Lions,5/6/2016,5,0
+829765,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Kolkata Knight Riders,field,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,4/28/2015,0,0
+336014,Team1_id_ Deccan Chargers,Team2_id_Kolkata Knight Riders,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Deccan Chargers,5/11/2008,0,2
+980999,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kings XI Punjab,field,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,5/18/2016,0,8
+419112,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kings XI Punjab,bat,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,3/16/2010,8,0
+419135,Team1_id_ Kolkata Knight Riders,Team2_id_Deccan Chargers,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Deccan Chargers,4/1/2010,0,2
+829745,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,4/22/2015,0,2
+598069,Team1_id_ Sunrisers Hyderabad,Team2_id_Kolkata Knight Riders,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Kolkata Knight Riders,bat,win_team_Sunrisers Hyderabad,loser_Kolkata Knight Riders,5/19/2013,5,0
+392199,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,Kingsmead,Durban,Toss_Kolkata Knight Riders,bat,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,4/29/2009,5,0
+419110,Team1_id_ Chennai Super Kings,Team2_id_Deccan Chargers,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Chennai Super Kings,3/14/2010,0,3
+829747,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Mumbai Indians,field,win_team_Delhi Daredevils,loser_Mumbai Indians,4/23/2015,0,3
+980947,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Kolkata Knight Riders,4/28/2016,6,0
+501234,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,4/30/2011,8,0
+336012,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,5/28/2008,9,0
+392229,Team1_id_ Deccan Chargers,Team2_id_Kings XI Punjab,New Wanderers Stadium,Johannesburg,Toss_Deccan Chargers,field,win_team_Kings XI Punjab,loser_Deccan Chargers,5/17/2009,0,0
+829809,Team1_id_ Kings XI Punjab,Team2_id_Chennai Super Kings,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,bat,win_team_Chennai Super Kings,loser_Kings XI Punjab,5/16/2015,7,0
+829721,Team1_id_ Rajasthan Royals,Team2_id_Mumbai Indians,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Mumbai Indians,bat,win_team_Rajasthan Royals,loser_Mumbai Indians,4/14/2015,7,0
+734015,Team1_id_ Sunrisers Hyderabad,Team2_id_Kolkata Knight Riders,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,bat,win_team_Kolkata Knight Riders,loser_Sunrisers Hyderabad,5/18/2014,7,0
+981011,Team1_id_ Delhi Daredevils,Team2_id_Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,Raipur,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,5/22/2016,6,0
+419107,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Brabourne Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Rajasthan Royals,3/13/2010,0,0
+829707,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Delhi Daredevils,field,win_team_Chennai Super Kings,loser_Delhi Daredevils,4/9/2015,0,0
+501228,Team1_id_ Pune Warriors,Team2_id_Chennai Super Kings,Dr DY Patil Sports Academy,Mumbai,Toss_Pune Warriors,bat,win_team_Chennai Super Kings,loser_Pune Warriors,4/27/2011,8,0
+392226,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,OUTsurance Oval,Bloemfontein,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Delhi Daredevils,5/15/2009,6,0
+548306,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Chennai Super Kings,4/4/2012,8,0
+734003,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,JSCA International Stadium Complex,Ranchi,Toss_Rajasthan Royals,bat,win_team_Chennai Super Kings,loser_Rajasthan Royals,5/13/2014,5,0
+392182,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,Newlands,Cape Town,Toss_Royal Challengers Bangalore,bat,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,4/18/2009,0,7
+980983,Team1_id_ Sunrisers Hyderabad,Team2_id_Delhi Daredevils,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Sunrisers Hyderabad,5/12/2016,7,0
+336002,Team1_id_ Deccan Chargers,Team2_id_Royal Challengers Bangalore,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,bat,win_team_Royal Challengers Bangalore,loser_Deccan Chargers,5/25/2008,5,0
+980993,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Delhi Daredevils,field,win_team_Mumbai Indians,loser_Delhi Daredevils,5/15/2016,0,8
+729283,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,Sheikh Zayed Stadium,Abu Dhabi,Toss_Chennai Super Kings,bat,win_team_Kings XI Punjab,loser_Chennai Super Kings,4/18/2014,6,0
+548350,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/2/2012,4,0
+548374,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Kings XI Punjab,5/19/2012,6,0
+392212,Team1_id_ Deccan Chargers,Team2_id_Mumbai Indians,SuperSport Park,Centurion,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Mumbai Indians,5/6/2009,0,1
+829795,Team1_id_ Mumbai Indians,Team2_id_Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Toss_Royal Challengers Bangalore,bat,win_team_Royal Challengers Bangalore,loser_Mumbai Indians,5/10/2015,0,3
+335999,Team1_id_ Deccan Chargers,Team2_id_Kings XI Punjab,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Deccan Chargers,5/1/2008,7,0
+829729,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Chennai Super Kings,loser_Mumbai Indians,4/17/2015,6,0
+335982,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,4/18/2008,0,14
+734013,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,JSCA International Stadium Complex,Ranchi,Toss_Chennai Super Kings,bat,win_team_Royal Challengers Bangalore,loser_Chennai Super Kings,5/18/2014,5,0
+501223,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Kings XI Punjab,field,win_team_Delhi Daredevils,loser_Kings XI Punjab,4/23/2011,0,2
+419141,Team1_id_ Deccan Chargers,Team2_id_Rajasthan Royals,Vidarbha Cricket Association Stadium  Jamtha,Nagpur,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Deccan Chargers,4/5/2010,0,0
+336040,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,Dr DY Patil Sports Academy,Mumbai,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Chennai Super Kings,6/1/2008,3,0
+548380,Team1_id_ Delhi Daredevils,Team2_id_Chennai Super Kings,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Delhi Daredevils,field,win_team_Chennai Super Kings,loser_Delhi Daredevils,5/25/2012,0,8
+548315,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,4/10/2012,0,4
+501209,Team1_id_ Rajasthan Royals,Team2_id_Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Rajasthan Royals,4/15/2011,9,0
+980963,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Eden Gardens,Kolkata,Toss_Kings XI Punjab,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,5/4/2016,0,0
+419106,Team1_id_ Deccan Chargers,Team2_id_Kolkata Knight Riders,Dr DY Patil Sports Academy,Mumbai,Toss_Deccan Chargers,field,win_team_Kolkata Knight Riders,loser_Deccan Chargers,3/12/2010,0,1
+392218,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,St George's Park,Port Elizabeth,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,5/10/2009,0,1
+501222,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,Eden Gardens,Kolkata,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,4/22/2011,9,0
+335998,Team1_id_ Delhi Daredevils,Team2_id_Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Toss_Royal Challengers Bangalore,field,win_team_Delhi Daredevils,loser_Royal Challengers Bangalore,4/30/2008,0,1
+548341,Team1_id_ Pune Warriors,Team2_id_Deccan Chargers,Subrata Roy Sahara Stadium,Pune,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Pune Warriors,4/26/2012,0,1
+598037,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Kings XI Punjab,4/29/2013,0,0
+829715,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,Feroz Shah Kotla,Delhi,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Delhi Daredevils,4/12/2015,3,0
+980913,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Kings XI Punjab,4/15/2016,8,0
+980997,Team1_id_ Rising Pune Supergiants,Team2_id_Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Rising Pune Supergiants,field,win_team_Rising Pune Supergiants,loser_Delhi Daredevils,5/17/2016,0,1
+335993,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Kolkata Knight Riders,bat,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,4/26/2008,9,0
+501203,Team1_id_ Kolkata Knight Riders,Team2_id_Deccan Chargers,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Deccan Chargers,4/11/2011,0,0
+392194,Team1_id_ Royal Challengers Bangalore,Team2_id_Delhi Daredevils,St George's Park,Port Elizabeth,Toss_Royal Challengers Bangalore,bat,win_team_Delhi Daredevils,loser_Royal Challengers Bangalore,4/26/2009,6,0
+598006,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Delhi Daredevils,4/9/2013,0,4
+980971,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Punjab Cricket Association IS Bindra Stadium  Mohali,Chandigarh,Toss_Delhi Daredevils,field,win_team_Kings XI Punjab,loser_Delhi Daredevils,5/7/2016,0,0
+419128,Team1_id_ Royal Challengers Bangalore,Team2_id_Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Delhi Daredevils,loser_Royal Challengers Bangalore,3/25/2010,0,1
+392203,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Buffalo Park,East London,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Kolkata Knight Riders,5/1/2009,0,0
+501227,Team1_id_ Delhi Daredevils,Team2_id_Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,4/26/2011,3,0
+980915,Team1_id_ Sunrisers Hyderabad,Team2_id_Kolkata Knight Riders,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,bat,win_team_Kolkata Knight Riders,loser_Sunrisers Hyderabad,4/16/2016,8,0
+392224,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,Kingsmead,Durban,Toss_Chennai Super Kings,bat,win_team_Royal Challengers Bangalore,loser_Chennai Super Kings,5/14/2009,2,0
+829775,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Kings XI Punjab,5/3/2015,0,2
+419153,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Kolkata Knight Riders,bat,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,4/13/2010,9,0
+336000,Team1_id_ Rajasthan Royals,Team2_id_Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Kolkata Knight Riders,5/1/2008,0,4
+598062,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Delhi Daredevils,5/14/2013,0,3
+419142,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Mumbai Indians,4/6/2010,0,2
+733995,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Wankhede Stadium,Mumbai,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Mumbai Indians,5/10/2014,4,0
+548334,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Kings XI Punjab,loser_Mumbai Indians,4/22/2012,6,0
+548346,Team1_id_ Mumbai Indians,Team2_id_Deccan Chargers,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Deccan Chargers,4/29/2012,5,0
+598036,Team1_id_ Rajasthan Royals,Team2_id_Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Royal Challengers Bangalore,4/29/2013,4,0
+548372,Team1_id_ Delhi Daredevils,Team2_id_Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,5/17/2012,0,2
+548323,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kings XI Punjab,loser_Kolkata Knight Riders,4/15/2012,0,0
+419145,Team1_id_ Royal Challengers Bangalore,Team2_id_Deccan Chargers,M Chinnaswamy Stadium,Bangalore,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Royal Challengers Bangalore,4/8/2010,7,0
+980949,Team1_id_ Rising Pune Supergiants,Team2_id_Gujarat Lions,Maharashtra Cricket Association Stadium,Pune,Toss_Gujarat Lions,field,win_team_Gujarat Lions,loser_Rising Pune Supergiants,4/29/2016,3,0
+829817,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Chennai Super Kings,5/19/2015,0,2
+336008,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Dr DY Patil Sports Academy,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Rajasthan Royals,5/7/2008,7,0
+734041,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Rajasthan Royals,5/25/2014,5,0
+501206,Team1_id_ Kings XI Punjab,Team2_id_Chennai Super Kings,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Chennai Super Kings,4/13/2011,6,0
+548348,Team1_id_ Deccan Chargers,Team2_id_Pune Warriors,Barabati Stadium,Cuttack,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Pune Warriors,5/1/2012,0,1
+598018,Team1_id_ Pune Warriors,Team2_id_Sunrisers Hyderabad,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,field,win_team_Sunrisers Hyderabad,loser_Pune Warriors,4/17/2013,0,1
+501268,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,Wankhede Stadium,Mumbai,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,5/24/2011,6,0
+548322,Team1_id_ Pune Warriors,Team2_id_Chennai Super Kings,Subrata Roy Sahara Stadium,Pune,Toss_Chennai Super Kings,bat,win_team_Pune Warriors,loser_Chennai Super Kings,4/14/2012,7,0
+980933,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Mumbai Indians,field,win_team_Delhi Daredevils,loser_Mumbai Indians,4/23/2016,0,1
+829777,Team1_id_ Rajasthan Royals,Team2_id_Delhi Daredevils,Brabourne Stadium,Mumbai,Toss_Delhi Daredevils,field,win_team_Rajasthan Royals,loser_Delhi Daredevils,5/3/2015,0,1
+598031,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Eden Gardens,Kolkata,Toss_Kings XI Punjab,bat,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,4/26/2013,6,0
+501252,Team1_id_ Rajasthan Royals,Team2_id_Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,5/11/2011,9,0
+335988,Team1_id_ Deccan Chargers,Team2_id_Delhi Daredevils,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,bat,win_team_Delhi Daredevils,loser_Deccan Chargers,4/22/2008,9,0
+501270,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Mumbai Indians,field,win_team_Royal Challengers Bangalore,loser_Mumbai Indians,5/27/2011,0,4
+501257,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Delhi Daredevils,field,win_team_Kings XI Punjab,loser_Delhi Daredevils,5/15/2011,0,2
+598040,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Raipur,Toss_Kolkata Knight Riders,bat,win_team_Delhi Daredevils,loser_Kolkata Knight Riders,5/1/2013,7,0
+980937,Team1_id_ Gujarat Lions,Team2_id_Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,Rajkot,Toss_Royal Challengers Bangalore,bat,win_team_Gujarat Lions,loser_Royal Challengers Bangalore,4/24/2016,6,0
+392188,Team1_id_ Royal Challengers Bangalore,Team2_id_Deccan Chargers,Newlands,Cape Town,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Royal Challengers Bangalore,4/22/2009,0,2
+419122,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Brabourne Stadium,Mumbai,Toss_Kolkata Knight Riders,bat,win_team_Mumbai Indians,loser_Kolkata Knight Riders,3/22/2010,7,0
+336007,Team1_id_ Chennai Super Kings,Team2_id_Deccan Chargers,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Chennai Super Kings,5/6/2008,7,0
+548327,Team1_id_ Royal Challengers Bangalore,Team2_id_Pune Warriors,M Chinnaswamy Stadium,Bangalore,Toss_Pune Warriors,bat,win_team_Royal Challengers Bangalore,loser_Pune Warriors,4/17/2012,6,0
+829771,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,5/2/2015,7,0
+980995,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,Eden Gardens,Kolkata,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,5/16/2016,9,0
+336004,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Dr DY Patil Sports Academy,Mumbai,Toss_Delhi Daredevils,field,win_team_Mumbai Indians,loser_Delhi Daredevils,5/4/2008,0,2
+392234,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,Kingsmead,Durban,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kings XI Punjab,5/20/2009,0,2
+980977,Team1_id_ Kings XI Punjab,Team2_id_Royal Challengers Bangalore,Punjab Cricket Association IS Bindra Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,5/9/2016,0,0
+981007,Team1_id_ Gujarat Lions,Team2_id_Mumbai Indians,Green Park,Kanpur,Toss_Gujarat Lions,field,win_team_Gujarat Lions,loser_Mumbai Indians,5/21/2016,6,0
+419119,Team1_id_ Mumbai Indians,Team2_id_Royal Challengers Bangalore,Brabourne Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Royal Challengers Bangalore,loser_Mumbai Indians,3/20/2010,7,0
+392206,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,New Wanderers Stadium,Johannesburg,Toss_Delhi Daredevils,field,win_team_Chennai Super Kings,loser_Delhi Daredevils,5/2/2009,0,1
+501249,Team1_id_ Rajasthan Royals,Team2_id_Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Chennai Super Kings,loser_Rajasthan Royals,5/9/2011,0,6
+598027,Team1_id_ Royal Challengers Bangalore,Team2_id_Pune Warriors,M Chinnaswamy Stadium,Bangalore,Toss_Pune Warriors,field,win_team_Royal Challengers Bangalore,loser_Pune Warriors,4/23/2013,0,13
+419163,Team1_id_ Chennai Super Kings,Team2_id_Deccan Chargers,Dr DY Patil Sports Academy,Mumbai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Deccan Chargers,4/22/2010,0,3
+829761,Team1_id_ Kolkata Knight Riders,Team2_id_Delhi Daredevils,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,5/7/2015,0,1
+734047,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Chennai Super Kings,field,win_team_Kings XI Punjab,loser_Chennai Super Kings,5/30/2014,0,2
+829769,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Wankhede Stadium,Mumbai,Toss_Rajasthan Royals,field,win_team_Mumbai Indians,loser_Rajasthan Royals,5/1/2015,0,0
+419143,Team1_id_ Rajasthan Royals,Team2_id_Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Toss_Kings XI Punjab,bat,win_team_Rajasthan Royals,loser_Kings XI Punjab,4/7/2010,9,0
+336021,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Kolkata Knight Riders,5/16/2008,8,0
+501254,Team1_id_ Kochi Tuskers Kerala,Team2_id_Kings XI Punjab,Holkar Cricket Stadium,Indore,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Kochi Tuskers Kerala,5/13/2011,6,0
+734039,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Delhi Daredevils,5/25/2014,7,0
+501224,Team1_id_ Deccan Chargers,Team2_id_Mumbai Indians,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,field,win_team_Mumbai Indians,loser_Deccan Chargers,4/24/2011,0,3
+548317,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Wankhede Stadium,Mumbai,Toss_Rajasthan Royals,field,win_team_Mumbai Indians,loser_Rajasthan Royals,4/11/2012,0,2
+336036,Team1_id_ Rajasthan Royals,Team2_id_Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Mumbai Indians,5/26/2008,5,0
+336018,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Chennai Super Kings,5/14/2008,9,0
+598024,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Mumbai Indians,bat,win_team_Delhi Daredevils,loser_Mumbai Indians,4/21/2013,9,0
+501259,Team1_id_ Pune Warriors,Team2_id_Deccan Chargers,Dr DY Patil Sports Academy,Mumbai,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Pune Warriors,5/16/2011,6,0
+733989,Team1_id_ Rajasthan Royals,Team2_id_Sunrisers Hyderabad,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Rajasthan Royals,field,win_team_Sunrisers Hyderabad,loser_Rajasthan Royals,5/8/2014,0,3
+419130,Team1_id_ Deccan Chargers,Team2_id_Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,Toss_Deccan Chargers,field,win_team_Mumbai Indians,loser_Deccan Chargers,3/28/2010,0,4
+336039,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Kings XI Punjab,bat,win_team_Chennai Super Kings,loser_Kings XI Punjab,5/31/2008,9,0
+980901,Team1_id_ Mumbai Indians,Team2_id_Rising Pune Supergiants,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Rising Pune Supergiants,loser_Mumbai Indians,4/9/2016,9,0
+336032,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Mumbai Indians,5/24/2008,5,0
+419159,Team1_id_ Kings XI Punjab,Team2_id_Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Kings XI Punjab,4/18/2010,6,0
+335987,Team1_id_ Rajasthan Royals,Team2_id_Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Toss_Kings XI Punjab,bat,win_team_Rajasthan Royals,loser_Kings XI Punjab,4/21/2008,6,0
+336001,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Delhi Daredevils,loser_Chennai Super Kings,5/2/2008,8,0
+419157,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,4/17/2010,0,5
+548368,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,5/14/2012,5,0
+980919,Team1_id_ Kings XI Punjab,Team2_id_Rising Pune Supergiants,Punjab Cricket Association IS Bindra Stadium  Mohali,Chandigarh,Toss_Rising Pune Supergiants,bat,win_team_Kings XI Punjab,loser_Rising Pune Supergiants,4/17/2016,6,0
+734023,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Chennai Super Kings,5/20/2014,8,0
+548381,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Kolkata Knight Riders,loser_Chennai Super Kings,5/27/2012,5,0
+419111,Team1_id_ Rajasthan Royals,Team2_id_Delhi Daredevils,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Rajasthan Royals,3/15/2010,6,0
+548359,Team1_id_ Deccan Chargers,Team2_id_Kings XI Punjab,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,field,win_team_Kings XI Punjab,loser_Deccan Chargers,5/8/2012,0,2
+392181,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,Newlands,Cape Town,Toss_Chennai Super Kings,field,win_team_Mumbai Indians,loser_Chennai Super Kings,4/18/2009,0,1
+501220,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Rajasthan Royals,field,win_team_Kings XI Punjab,loser_Rajasthan Royals,4/21/2011,0,4
+419158,Team1_id_ Kolkata Knight Riders,Team2_id_Rajasthan Royals,Eden Gardens,Kolkata,Toss_Rajasthan Royals,bat,win_team_Kolkata Knight Riders,loser_Rajasthan Royals,4/17/2010,8,0
+392238,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,New Wanderers Stadium,Johannesburg,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Chennai Super Kings,5/23/2009,6,0
+392233,Team1_id_ Kolkata Knight Riders,Team2_id_Rajasthan Royals,Kingsmead,Durban,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Rajasthan Royals,5/20/2009,4,0
+419161,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Mumbai Indians,bat,win_team_Kolkata Knight Riders,loser_Mumbai Indians,4/19/2010,9,0
+392205,Team1_id_ Deccan Chargers,Team2_id_Rajasthan Royals,St George's Park,Port Elizabeth,Toss_Deccan Chargers,bat,win_team_Rajasthan Royals,loser_Deccan Chargers,5/2/2009,3,0
+419127,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,3/27/2010,0,3
+392183,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Newlands,Cape Town,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Kings XI Punjab,4/19/2009,10,0
+392210,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Kingsmead,Durban,Toss_Kings XI Punjab,field,win_team_Rajasthan Royals,loser_Kings XI Punjab,5/5/2009,0,7
+419136,Team1_id_ Kings XI Punjab,Team2_id_Royal Challengers Bangalore,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,bat,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,4/2/2010,6,0
+733991,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/9/2014,0,3
+734011,Team1_id_ Rajasthan Royals,Team2_id_Delhi Daredevils,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Delhi Daredevils,field,win_team_Rajasthan Royals,loser_Delhi Daredevils,5/15/2014,0,6
+598001,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,Feroz Shah Kotla,Delhi,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Delhi Daredevils,4/6/2013,0,0
+336031,Team1_id_ Kings XI Punjab,Team2_id_Deccan Chargers,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Deccan Chargers,5/23/2008,6,0
+548365,Team1_id_ Rajasthan Royals,Team2_id_Pune Warriors,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Pune Warriors,5/13/2012,0,4
+729293,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,Sheikh Zayed Stadium,Abu Dhabi,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Delhi Daredevils,4/21/2014,0,9
+598042,Team1_id_ Pune Warriors,Team2_id_Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Pune,Toss_Royal Challengers Bangalore,bat,win_team_Royal Challengers Bangalore,loser_Pune Warriors,5/2/2013,0,1
+501199,Team1_id_ Deccan Chargers,Team2_id_Rajasthan Royals,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Deccan Chargers,4/9/2011,8,0
+501238,Team1_id_ Delhi Daredevils,Team2_id_Kochi Tuskers Kerala,Feroz Shah Kotla,Delhi,Toss_Kochi Tuskers Kerala,field,win_team_Kochi Tuskers Kerala,loser_Delhi Daredevils,5/2/2011,7,0
+392195,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Newlands,Cape Town,Toss_Kings XI Punjab,bat,win_team_Kings XI Punjab,loser_Rajasthan Royals,4/26/2009,0,2
+733977,Team1_id_ Royal Challengers Bangalore,Team2_id_Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Sunrisers Hyderabad,5/4/2014,4,0
+419123,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Toss_Chennai Super Kings,field,win_team_Royal Challengers Bangalore,loser_Chennai Super Kings,3/23/2010,0,3
+734043,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Eden Gardens,Kolkata,Toss_Kings XI Punjab,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,5/27/2014,0,2
+598058,Team1_id_ Rajasthan Royals,Team2_id_Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Chennai Super Kings,5/12/2013,5,0
+336010,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,5/8/2008,0,0
+392208,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,New Wanderers Stadium,Johannesburg,Toss_Mumbai Indians,bat,win_team_Royal Challengers Bangalore,loser_Mumbai Indians,5/3/2009,9,0
+733973,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Kings XI Punjab,bat,win_team_Mumbai Indians,loser_Kings XI Punjab,5/3/2014,5,0
+980959,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,5/2/2016,5,0
+501263,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Rajasthan Royals,loser_Mumbai Indians,5/20/2011,10,0
+598068,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Toss_Chennai Super Kings,field,win_team_Royal Challengers Bangalore,loser_Chennai Super Kings,5/18/2013,0,2
+734049,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,6/1/2014,3,0
+598034,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Kolkata Knight Riders,field,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,4/28/2013,0,1
+392215,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Buffalo Park,East London,Toss_Mumbai Indians,bat,win_team_Delhi Daredevils,loser_Mumbai Indians,5/8/2009,7,0
+501212,Team1_id_ Deccan Chargers,Team2_id_Kings XI Punjab,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Deccan Chargers,4/16/2011,8,0
+336025,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,5/18/2008,0,0
+419116,Team1_id_ Delhi Daredevils,Team2_id_Chennai Super Kings,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Chennai Super Kings,loser_Delhi Daredevils,3/19/2010,5,0
+598012,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,4/13/2013,4,0
+548360,Team1_id_ Mumbai Indians,Team2_id_Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Mumbai Indians,5/9/2012,9,0
+548310,Team1_id_ Royal Challengers Bangalore,Team2_id_Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Toss_Delhi Daredevils,field,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,4/7/2012,0,2
+335991,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Mumbai Indians,field,win_team_Kings XI Punjab,loser_Mumbai Indians,4/25/2008,0,6
+598057,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,JSCA International Stadium Complex,Ranchi,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,5/12/2013,5,0
+598013,Team1_id_ Kolkata Knight Riders,Team2_id_Sunrisers Hyderabad,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Sunrisers Hyderabad,4/14/2013,0,4
+548375,Team1_id_ Pune Warriors,Team2_id_Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Pune Warriors,5/19/2012,0,3
+336034,Team1_id_ Royal Challengers Bangalore,Team2_id_Deccan Chargers,M Chinnaswamy Stadium,Bangalore,Toss_Deccan Chargers,field,win_team_Royal Challengers Bangalore,loser_Deccan Chargers,5/3/2008,0,0
+548376,Team1_id_ Deccan Chargers,Team2_id_Royal Challengers Bangalore,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Royal Challengers Bangalore,field,win_team_Deccan Chargers,loser_Royal Challengers Bangalore,5/20/2012,0,0
+419148,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,4/10/2010,7,0
+829823,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Chennai Super Kings,field,win_team_Mumbai Indians,loser_Chennai Super Kings,5/24/2015,0,4
+548343,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Kings XI Punjab,bat,win_team_Kings XI Punjab,loser_Chennai Super Kings,4/28/2012,0,0
+419139,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kings XI Punjab,loser_Kolkata Knight Riders,4/4/2010,8,0
+980985,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Mumbai Indians,bat,win_team_Kings XI Punjab,loser_Mumbai Indians,5/13/2016,7,0
+548354,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Kings XI Punjab,5/5/2012,0,4
+419134,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Rajasthan Royals,3/31/2010,0,6
+501231,Team1_id_ Rajasthan Royals,Team2_id_Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Mumbai Indians,4/29/2011,7,0
+597999,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Mumbai Indians,field,win_team_Royal Challengers Bangalore,loser_Mumbai Indians,4/4/2013,0,0
+419155,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Delhi Daredevils,loser_Chennai Super Kings,4/15/2010,6,0
+501232,Team1_id_ Royal Challengers Bangalore,Team2_id_Pune Warriors,M Chinnaswamy Stadium,Bangalore,Toss_Pune Warriors,field,win_team_Royal Challengers Bangalore,loser_Pune Warriors,4/29/2011,0,2
+501205,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,4/12/2011,9,0
+829751,Team1_id_ Mumbai Indians,Team2_id_Sunrisers Hyderabad,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Sunrisers Hyderabad,4/25/2015,0,2
+598007,Team1_id_ Kings XI Punjab,Team2_id_Chennai Super Kings,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Kings XI Punjab,4/10/2013,10,0
+392198,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,SuperSport Park,Centurion,Toss_Delhi Daredevils,bat,win_team_Rajasthan Royals,loser_Delhi Daredevils,4/28/2009,5,0
+336035,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Eden Gardens,Kolkata,Toss_Kings XI Punjab,bat,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,5/25/2008,3,0
+548321,Team1_id_ Delhi Daredevils,Team2_id_Deccan Chargers,Feroz Shah Kotla,Delhi,Toss_Deccan Chargers,bat,win_team_Delhi Daredevils,loser_Deccan Chargers,4/19/2012,5,0
+598028,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Delhi Daredevils,field,win_team_Kings XI Punjab,loser_Delhi Daredevils,5/16/2013,0,0
+598008,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,4/11/2013,8,0
+392219,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,New Wanderers Stadium,Johannesburg,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Kolkata Knight Riders,5/10/2009,7,0
+501266,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Chennai Super Kings,5/22/2011,8,0
+733981,Team1_id_ Delhi Daredevils,Team2_id_Chennai Super Kings,Feroz Shah Kotla,Delhi,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Delhi Daredevils,5/5/2014,8,0
+548313,Team1_id_ Pune Warriors,Team2_id_Kings XI Punjab,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,bat,win_team_Pune Warriors,loser_Kings XI Punjab,4/8/2012,0,2
+419144,Team1_id_ Kolkata Knight Riders,Team2_id_Delhi Daredevils,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,4/7/2010,0,1
+548349,Team1_id_ Rajasthan Royals,Team2_id_Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,bat,win_team_Delhi Daredevils,loser_Rajasthan Royals,5/1/2012,6,0
+548344,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Royal Challengers Bangalore,4/28/2012,0,4
+336022,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Kings XI Punjab,loser_Delhi Daredevils,5/17/2008,0,0
+336033,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Chennai Super Kings,5/24/2008,0,1
+548316,Team1_id_ Delhi Daredevils,Team2_id_Chennai Super Kings,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Chennai Super Kings,4/10/2012,8,0
+729285,Team1_id_ Sunrisers Hyderabad,Team2_id_Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Sunrisers Hyderabad,4/18/2014,4,0
+336019,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Rajasthan Royals,field,win_team_Kings XI Punjab,loser_Rajasthan Royals,5/28/2008,0,4
+733979,Team1_id_ Rajasthan Royals,Team2_id_Kolkata Knight Riders,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Kolkata Knight Riders,field,win_team_Rajasthan Royals,loser_Kolkata Knight Riders,5/5/2014,0,1
+598055,Team1_id_ Pune Warriors,Team2_id_Mumbai Indians,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,bat,win_team_Mumbai Indians,loser_Pune Warriors,5/11/2013,5,0
+829711,Team1_id_ Chennai Super Kings,Team2_id_Sunrisers Hyderabad,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Sunrisers Hyderabad,4/11/2015,0,4
+335990,Team1_id_ Deccan Chargers,Team2_id_Rajasthan Royals,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Deccan Chargers,4/24/2008,3,0
+598072,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Eden Gardens,Kolkata,Toss_Rajasthan Royals,bat,win_team_Mumbai Indians,loser_Rajasthan Royals,5/24/2013,4,0
+548318,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Royal Challengers Bangalore,bat,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,4/12/2012,5,0
+548342,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,Feroz Shah Kotla,Delhi,Toss_Mumbai Indians,field,win_team_Delhi Daredevils,loser_Mumbai Indians,4/27/2012,0,3
+501221,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Wankhede Stadium,Mumbai,Toss_Chennai Super Kings,field,win_team_Mumbai Indians,loser_Chennai Super Kings,4/22/2011,0,0
+980987,Team1_id_ Royal Challengers Bangalore,Team2_id_Gujarat Lions,M Chinnaswamy Stadium,Bangalore,Toss_Gujarat Lions,field,win_team_Royal Challengers Bangalore,loser_Gujarat Lions,5/14/2016,0,14
+598063,Team1_id_ Mumbai Indians,Team2_id_Rajasthan Royals,Wankhede Stadium,Mumbai,Toss_Rajasthan Royals,field,win_team_Mumbai Indians,loser_Rajasthan Royals,5/15/2013,0,1
+336028,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Kings XI Punjab,loser_Mumbai Indians,5/21/2008,0,0
+980925,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Punjab Cricket Association IS Bindra Stadium  Mohali,Chandigarh,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,4/19/2016,6,0
+336017,Team1_id_ Kolkata Knight Riders,Team2_id_Delhi Daredevils,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,5/13/2008,0,2
+501218,Team1_id_ Mumbai Indians,Team2_id_Pune Warriors,Wankhede Stadium,Mumbai,Toss_Pune Warriors,bat,win_team_Mumbai Indians,loser_Pune Warriors,4/20/2011,7,0
+501271,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,5/28/2011,0,5
+598051,Team1_id_ Sunrisers Hyderabad,Team2_id_Chennai Super Kings,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,field,win_team_Chennai Super Kings,loser_Sunrisers Hyderabad,5/8/2013,0,7
+419160,Team1_id_ Delhi Daredevils,Team2_id_Deccan Chargers,Feroz Shah Kotla,Delhi,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Delhi Daredevils,4/18/2010,0,1
+829737,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,4/19/2015,0,1
+419138,Team1_id_ Mumbai Indians,Team2_id_Deccan Chargers,Brabourne Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Deccan Chargers,4/3/2010,0,6
+419126,Team1_id_ Rajasthan Royals,Team2_id_Deccan Chargers,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Deccan Chargers,bat,win_team_Rajasthan Royals,loser_Deccan Chargers,3/26/2010,8,0
+392211,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Kingsmead,Durban,Toss_Kolkata Knight Riders,bat,win_team_Delhi Daredevils,loser_Kolkata Knight Riders,5/5/2009,9,0
+501236,Team1_id_ Chennai Super Kings,Team2_id_Deccan Chargers,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Deccan Chargers,5/1/2011,0,1
+501204,Team1_id_ Rajasthan Royals,Team2_id_Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Toss_Delhi Daredevils,bat,win_team_Rajasthan Royals,loser_Delhi Daredevils,4/12/2011,6,0
+501260,Team1_id_ Kings XI Punjab,Team2_id_Royal Challengers Bangalore,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Kings XI Punjab,bat,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/17/2011,0,11
+548309,Team1_id_ Rajasthan Royals,Team2_id_Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Toss_Kings XI Punjab,field,win_team_Rajasthan Royals,loser_Kings XI Punjab,4/6/2012,0,3
+501261,Team1_id_ Chennai Super Kings,Team2_id_Kochi Tuskers Kerala,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kochi Tuskers Kerala,5/18/2011,0,1
+392232,Team1_id_ Royal Challengers Bangalore,Team2_id_Delhi Daredevils,New Wanderers Stadium,Johannesburg,Toss_Delhi Daredevils,bat,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,5/19/2009,7,0
+734001,Team1_id_ Sunrisers Hyderabad,Team2_id_Mumbai Indians,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,bat,win_team_Mumbai Indians,loser_Sunrisers Hyderabad,5/12/2014,7,0
+335986,Team1_id_ Kolkata Knight Riders,Team2_id_Deccan Chargers,Eden Gardens,Kolkata,Toss_Deccan Chargers,bat,win_team_Kolkata Knight Riders,loser_Deccan Chargers,4/20/2008,5,0
+829789,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Mumbai Indians,loser_Chennai Super Kings,5/8/2015,6,0
+734019,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Delhi Daredevils,5/19/2014,4,0
+501233,Team1_id_ Kochi Tuskers Kerala,Team2_id_Delhi Daredevils,Nehru Stadium,Kochi,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Kochi Tuskers Kerala,4/30/2011,0,3
+548320,Team1_id_ Kolkata Knight Riders,Team2_id_Rajasthan Royals,Eden Gardens,Kolkata,Toss_Rajasthan Royals,bat,win_team_Kolkata Knight Riders,loser_Rajasthan Royals,4/13/2012,5,0
+598046,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Chennai Super Kings,5/5/2013,0,6
+598056,Team1_id_ Kings XI Punjab,Team2_id_Sunrisers Hyderabad,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Sunrisers Hyderabad,loser_Kings XI Punjab,5/11/2013,0,3
+829785,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kings XI Punjab,field,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,5/6/2015,0,13
+392236,Team1_id_ Royal Challengers Bangalore,Team2_id_Deccan Chargers,SuperSport Park,Centurion,Toss_Royal Challengers Bangalore,bat,win_team_Royal Challengers Bangalore,loser_Deccan Chargers,5/21/2009,0,1
+829713,Team1_id_ Kolkata Knight Riders,Team2_id_Royal Challengers Bangalore,Eden Gardens,Kolkata,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,4/11/2015,3,0
+548367,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,5/14/2012,5,0
+829709,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Maharashtra Cricket Association Stadium,Pune,Toss_Kings XI Punjab,field,win_team_Rajasthan Royals,loser_Kings XI Punjab,4/10/2015,0,2
+501242,Team1_id_ Kochi Tuskers Kerala,Team2_id_Kolkata Knight Riders,Nehru Stadium,Kochi,Toss_Kolkata Knight Riders,field,win_team_Kochi Tuskers Kerala,loser_Kolkata Knight Riders,5/5/2011,0,1
+729279,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Mumbai Indians,4/16/2014,0,4
+733971,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,JSCA International Stadium Complex,Ranchi,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,5/2/2014,0,3
+501207,Team1_id_ Pune Warriors,Team2_id_Kochi Tuskers Kerala,Dr DY Patil Sports Academy,Mumbai,Toss_Kochi Tuskers Kerala,bat,win_team_Pune Warriors,loser_Kochi Tuskers Kerala,4/13/2011,4,0
+392185,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,St George's Park,Port Elizabeth,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,4/20/2009,0,9
+734009,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Barabati Stadium,Cuttack,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Mumbai Indians,5/14/2014,6,0
+419131,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Kolkata Knight Riders,3/29/2010,0,4
+734045,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,Brabourne Stadium,Mumbai,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Mumbai Indians,5/28/2014,7,0
+336003,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,bat,win_team_Kings XI Punjab,loser_Kolkata Knight Riders,5/3/2008,0,0
+501245,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Chennai Super Kings,bat,win_team_Kolkata Knight Riders,loser_Chennai Super Kings,5/7/2011,0,1
+598038,Team1_id_ Pune Warriors,Team2_id_Chennai Super Kings,Subrata Roy Sahara Stadium,Pune,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Pune Warriors,4/30/2013,0,3
+336024,Team1_id_ Deccan Chargers,Team2_id_Mumbai Indians,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,field,win_team_Mumbai Indians,loser_Deccan Chargers,5/18/2008,0,2
+501250,Team1_id_ Deccan Chargers,Team2_id_Pune Warriors,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,bat,win_team_Pune Warriors,loser_Deccan Chargers,5/10/2011,6,0
+501215,Team1_id_ Kochi Tuskers Kerala,Team2_id_Chennai Super Kings,Nehru Stadium,Kochi,Toss_Kochi Tuskers Kerala,field,win_team_Kochi Tuskers Kerala,loser_Chennai Super Kings,4/18/2011,7,0
+598002,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Chennai Super Kings,4/6/2013,0,0
+548311,Team1_id_ Deccan Chargers,Team2_id_Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Deccan Chargers,field,win_team_Chennai Super Kings,loser_Deccan Chargers,4/7/2012,0,7
+548352,Team1_id_ Chennai Super Kings,Team2_id_Deccan Chargers,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Deccan Chargers,5/4/2012,0,1
+419120,Team1_id_ Deccan Chargers,Team2_id_Delhi Daredevils,Barabati Stadium,Cuttack,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Delhi Daredevils,3/21/2010,0,1
+598054,Team1_id_ Delhi Daredevils,Team2_id_Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,5/10/2013,0,0
+829753,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kings XI Punjab,4/25/2015,0,9
+335985,Team1_id_ Mumbai Indians,Team2_id_Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Royal Challengers Bangalore,loser_Mumbai Indians,4/20/2008,5,0
+501219,Team1_id_ Kolkata Knight Riders,Team2_id_Kochi Tuskers Kerala,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kochi Tuskers Kerala,loser_Kolkata Knight Riders,4/20/2011,0,0
+392184,Team1_id_ Deccan Chargers,Team2_id_Kolkata Knight Riders,Newlands,Cape Town,Toss_Kolkata Knight Riders,bat,win_team_Deccan Chargers,loser_Kolkata Knight Riders,4/19/2009,8,0
+548347,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Kolkata Knight Riders,loser_Chennai Super Kings,4/30/2012,5,0
+733999,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,bat,win_team_Rajasthan Royals,loser_Royal Challengers Bangalore,5/11/2014,5,0
+734035,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,5/24/2014,8,0
+829815,Team1_id_ Sunrisers Hyderabad,Team2_id_Mumbai Indians,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,bat,win_team_Mumbai Indians,loser_Sunrisers Hyderabad,5/17/2015,9,0
+598025,Team1_id_ Kings XI Punjab,Team2_id_Pune Warriors,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Pune Warriors,4/21/2013,7,0
+336005,Team1_id_ Rajasthan Royals,Team2_id_Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Toss_Chennai Super Kings,bat,win_team_Rajasthan Royals,loser_Chennai Super Kings,5/4/2008,8,0
+829733,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,4/18/2015,4,0
+548335,Team1_id_ Deccan Chargers,Team2_id_Kolkata Knight Riders,Barabati Stadium,Cuttack,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Deccan Chargers,4/22/2012,5,0
+598035,Team1_id_ Delhi Daredevils,Team2_id_Pune Warriors,Shaheed Veer Narayan Singh International Stadium,Raipur,Toss_Pune Warriors,field,win_team_Delhi Daredevils,loser_Pune Warriors,4/28/2013,0,1
+392192,Team1_id_ Deccan Chargers,Team2_id_Mumbai Indians,Kingsmead,Durban,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Mumbai Indians,4/25/2009,0,1
+548379,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Mumbai Indians,field,win_team_Chennai Super Kings,loser_Mumbai Indians,5/23/2012,0,3
+501214,Team1_id_ Kolkata Knight Riders,Team2_id_Rajasthan Royals,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Rajasthan Royals,4/17/2011,8,0
+548326,Team1_id_ Rajasthan Royals,Team2_id_Deccan Chargers,Sawai Mansingh Stadium,Jaipur,Toss_Deccan Chargers,bat,win_team_Rajasthan Royals,loser_Deccan Chargers,4/17/2012,5,0
+734017,Team1_id_ Rajasthan Royals,Team2_id_Mumbai Indians,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Rajasthan Royals,5/19/2014,0,2
+419133,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Royal Challengers Bangalore,bat,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,3/31/2010,5,0
+829725,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Maharashtra Cricket Association Stadium,Pune,Toss_Kings XI Punjab,bat,win_team_Delhi Daredevils,loser_Kings XI Punjab,4/15/2015,5,0
+392209,Team1_id_ Chennai Super Kings,Team2_id_Deccan Chargers,Buffalo Park,East London,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Deccan Chargers,5/4/2009,0,7
+548361,Team1_id_ Rajasthan Royals,Team2_id_Chennai Super Kings,Sawai Mansingh Stadium,Jaipur,Toss_Chennai Super Kings,field,win_team_Chennai Super Kings,loser_Rajasthan Royals,5/10/2012,4,0
+980965,Team1_id_ Delhi Daredevils,Team2_id_Rising Pune Supergiants,Feroz Shah Kotla,Delhi,Toss_Rising Pune Supergiants,field,win_team_Rising Pune Supergiants,loser_Delhi Daredevils,5/5/2016,7,0
+419156,Team1_id_ Kings XI Punjab,Team2_id_Deccan Chargers,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Kings XI Punjab,4/16/2010,5,0
+336006,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/5/2008,6,0
+336015,Team1_id_ Rajasthan Royals,Team2_id_Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Delhi Daredevils,5/11/2008,3,0
+598022,Team1_id_ Kolkata Knight Riders,Team2_id_Chennai Super Kings,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,4/20/2013,4,0
+829801,Team1_id_ Delhi Daredevils,Team2_id_Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Raipur,Toss_Chennai Super Kings,bat,win_team_Delhi Daredevils,loser_Chennai Super Kings,5/12/2015,6,0
+335995,Team1_id_ Kings XI Punjab,Team2_id_Delhi Daredevils,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Delhi Daredevils,bat,win_team_Kings XI Punjab,loser_Delhi Daredevils,4/27/2008,4,0
+501216,Team1_id_ Delhi Daredevils,Team2_id_Deccan Chargers,Feroz Shah Kotla,Delhi,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Delhi Daredevils,4/19/2011,0,1
+392228,Team1_id_ Deccan Chargers,Team2_id_Kolkata Knight Riders,New Wanderers Stadium,Johannesburg,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Kolkata Knight Riders,5/16/2009,6,0
+501243,Team1_id_ Deccan Chargers,Team2_id_Delhi Daredevils,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Deccan Chargers,5/5/2011,4,0
+419118,Team1_id_ Rajasthan Royals,Team2_id_Kolkata Knight Riders,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Kolkata Knight Riders,3/20/2010,0,3
+336011,Team1_id_ Rajasthan Royals,Team2_id_Deccan Chargers,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Deccan Chargers,5/9/2008,8,0
+392201,Team1_id_ Deccan Chargers,Team2_id_Delhi Daredevils,SuperSport Park,Centurion,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Deccan Chargers,4/30/2009,6,0
+734031,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Wankhede Stadium,Mumbai,Toss_Delhi Daredevils,field,win_team_Mumbai Indians,loser_Delhi Daredevils,5/23/2014,0,1
+548366,Team1_id_ Kings XI Punjab,Team2_id_Deccan Chargers,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Deccan Chargers,bat,win_team_Kings XI Punjab,loser_Deccan Chargers,5/13/2012,4,0
+501269,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Kolkata Knight Riders,5/25/2011,4,0
+501258,Team1_id_ Kochi Tuskers Kerala,Team2_id_Rajasthan Royals,Holkar Cricket Stadium,Indore,Toss_Kochi Tuskers Kerala,field,win_team_Kochi Tuskers Kerala,loser_Rajasthan Royals,5/15/2011,8,0
+336023,Team1_id_ Rajasthan Royals,Team2_id_Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Toss_Royal Challengers Bangalore,field,win_team_Rajasthan Royals,loser_Royal Challengers Bangalore,5/17/2008,0,6
+598016,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kolkata Knight Riders,field,win_team_Kings XI Punjab,loser_Kolkata Knight Riders,4/16/2013,0,0
+419146,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Mumbai Indians,bat,win_team_Kings XI Punjab,loser_Mumbai Indians,4/9/2010,6,0
+501239,Team1_id_ Deccan Chargers,Team2_id_Kolkata Knight Riders,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,field,win_team_Kolkata Knight Riders,loser_Deccan Chargers,5/3/2011,0,2
+733983,Team1_id_ Mumbai Indians,Team2_id_Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Toss_Royal Challengers Bangalore,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,5/6/2014,0,1
+980935,Team1_id_ Sunrisers Hyderabad,Team2_id_Kings XI Punjab,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Kings XI Punjab,4/23/2016,5,0
+335996,Team1_id_ Royal Challengers Bangalore,Team2_id_Chennai Super Kings,M Chinnaswamy Stadium,Bangalore,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,4/28/2008,0,1
+733987,Team1_id_ Kings XI Punjab,Team2_id_Chennai Super Kings,Barabati Stadium,Cuttack,Toss_Chennai Super Kings,field,win_team_Kings XI Punjab,loser_Chennai Super Kings,5/7/2014,0,4
+548351,Team1_id_ Pune Warriors,Team2_id_Mumbai Indians,Subrata Roy Sahara Stadium,Pune,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Pune Warriors,5/3/2012,0,0
+981005,Team1_id_ Rising Pune Supergiants,Team2_id_Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Kings XI Punjab,bat,win_team_Rising Pune Supergiants,loser_Kings XI Punjab,5/21/2016,4,0
+598052,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Kings XI Punjab,5/9/2013,8,0
+598066,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Mumbai Indians,field,win_team_Kings XI Punjab,loser_Mumbai Indians,5/18/2013,0,5
+980939,Team1_id_ Rising Pune Supergiants,Team2_id_Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Pune,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Rising Pune Supergiants,4/24/2016,2,0
+419140,Team1_id_ Delhi Daredevils,Team2_id_Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Royal Challengers Bangalore,4/4/2010,0,3
+392214,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,SuperSport Park,Centurion,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kings XI Punjab,5/7/2009,0,1
+548371,Team1_id_ Kings XI Punjab,Team2_id_Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Chennai Super Kings,5/17/2012,6,0
+980981,Team1_id_ Royal Challengers Bangalore,Team2_id_Mumbai Indians,M Chinnaswamy Stadium,Bangalore,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,5/11/2016,6,0
+734005,Team1_id_ Royal Challengers Bangalore,Team2_id_Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Toss_Delhi Daredevils,field,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,5/13/2014,0,1
+548357,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,5/7/2012,6,0
+501255,Team1_id_ Royal Challengers Bangalore,Team2_id_Kolkata Knight Riders,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kolkata Knight Riders,5/14/2011,4,0
+829759,Team1_id_ Kings XI Punjab,Team2_id_Sunrisers Hyderabad,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Sunrisers Hyderabad,loser_Kings XI Punjab,4/27/2015,0,2
+419150,Team1_id_ Rajasthan Royals,Team2_id_Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Mumbai Indians,loser_Rajasthan Royals,4/11/2010,0,3
+548378,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Subrata Roy Sahara Stadium,Pune,Toss_Kolkata Knight Riders,bat,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,5/22/2012,0,1
+501235,Team1_id_ Rajasthan Royals,Team2_id_Pune Warriors,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Pune Warriors,5/1/2011,6,0
+419154,Team1_id_ Rajasthan Royals,Team2_id_Royal Challengers Bangalore,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,bat,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,4/14/2010,5,0
+829735,Team1_id_ Rajasthan Royals,Team2_id_Chennai Super Kings,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Chennai Super Kings,bat,win_team_Rajasthan Royals,loser_Chennai Super Kings,4/19/2015,8,0
+733985,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,5/7/2014,8,0
+501237,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Kings XI Punjab,field,win_team_Mumbai Indians,loser_Kings XI Punjab,5/2/2011,0,2
+392237,Team1_id_ Delhi Daredevils,Team2_id_Deccan Chargers,SuperSport Park,Centurion,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Delhi Daredevils,5/22/2009,6,0
+981013,Team1_id_ Gujarat Lions,Team2_id_Royal Challengers Bangalore,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Gujarat Lions,5/24/2016,4,0
+598071,Team1_id_ Rajasthan Royals,Team2_id_Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,Toss_Sunrisers Hyderabad,bat,win_team_Rajasthan Royals,loser_Sunrisers Hyderabad,5/22/2013,4,0
+980979,Team1_id_ Rising Pune Supergiants,Team2_id_Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Sunrisers Hyderabad,bat,win_team_Sunrisers Hyderabad,loser_Rising Pune Supergiants,5/10/2016,0,0
+598073,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Chennai Super Kings,5/26/2013,0,2
+548369,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Kings XI Punjab,bat,win_team_Delhi Daredevils,loser_Kings XI Punjab,5/15/2012,5,0
+336016,Team1_id_ Kings XI Punjab,Team2_id_Royal Challengers Bangalore,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Royal Challengers Bangalore,bat,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/12/2008,9,0
+598059,Team1_id_ Delhi Daredevils,Team2_id_Kings XI Punjab,Feroz Shah Kotla,Delhi,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Delhi Daredevils,4/23/2013,5,0
+392196,Team1_id_ Chennai Super Kings,Team2_id_Deccan Chargers,Kingsmead,Durban,Toss_Deccan Chargers,field,win_team_Deccan Chargers,loser_Chennai Super Kings,4/27/2009,6,0
+598045,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/14/2013,7,0
+829757,Team1_id_ Delhi Daredevils,Team2_id_Royal Challengers Bangalore,Feroz Shah Kotla,Delhi,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Delhi Daredevils,4/26/2015,10,0
+419137,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Rajasthan Royals,4/3/2010,0,2
+734033,Team1_id_ Kings XI Punjab,Team2_id_Rajasthan Royals,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Rajasthan Royals,field,win_team_Kings XI Punjab,loser_Rajasthan Royals,5/23/2014,0,1
+598010,Team1_id_ Delhi Daredevils,Team2_id_Sunrisers Hyderabad,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Sunrisers Hyderabad,loser_Delhi Daredevils,4/12/2013,3,0
+733975,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,Feroz Shah Kotla,Delhi,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Delhi Daredevils,5/3/2014,7,0
+392204,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,Kingsmead,Durban,Toss_Royal Challengers Bangalore,bat,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,5/1/2009,0,0
+501253,Team1_id_ Chennai Super Kings,Team2_id_Delhi Daredevils,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Delhi Daredevils,5/12/2011,0,1
+734037,Team1_id_ Kolkata Knight Riders,Team2_id_Sunrisers Hyderabad,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Sunrisers Hyderabad,5/24/2014,4,0
+336029,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Royal Challengers Bangalore,bat,win_team_Royal Challengers Bangalore,loser_Chennai Super Kings,5/21/2008,0,1
+980951,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Toss_Kolkata Knight Riders,field,win_team_Delhi Daredevils,loser_Kolkata Knight Riders,4/30/2016,0,2
+598003,Team1_id_ Pune Warriors,Team2_id_Kings XI Punjab,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,bat,win_team_Kings XI Punjab,loser_Pune Warriors,4/7/2013,8,0
+829787,Team1_id_ Rajasthan Royals,Team2_id_Sunrisers Hyderabad,Brabourne Stadium,Mumbai,Toss_Rajasthan Royals,field,win_team_Sunrisers Hyderabad,loser_Rajasthan Royals,5/7/2015,0,0
+392235,Team1_id_ Delhi Daredevils,Team2_id_Mumbai Indians,SuperSport Park,Centurion,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Mumbai Indians,5/21/2009,4,0
+598050,Team1_id_ Mumbai Indians,Team2_id_Kolkata Knight Riders,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Kolkata Knight Riders,5/7/2013,0,6
+336026,Team1_id_ Royal Challengers Bangalore,Team2_id_Delhi Daredevils,M Chinnaswamy Stadium,Bangalore,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Royal Challengers Bangalore,5/19/2008,5,0
+501198,Team1_id_ Chennai Super Kings,Team2_id_Kolkata Knight Riders,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kolkata Knight Riders,4/8/2011,0,0
+598000,Team1_id_ Sunrisers Hyderabad,Team2_id_Pune Warriors,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Pune Warriors,field,win_team_Sunrisers Hyderabad,loser_Pune Warriors,4/5/2013,0,2
+598049,Team1_id_ Rajasthan Royals,Team2_id_Delhi Daredevils,Sawai Mansingh Stadium,Jaipur,Toss_Delhi Daredevils,bat,win_team_Rajasthan Royals,loser_Delhi Daredevils,5/7/2013,9,0
+501210,Team1_id_ Mumbai Indians,Team2_id_Kochi Tuskers Kerala,Wankhede Stadium,Mumbai,Toss_Kochi Tuskers Kerala,field,win_team_Kochi Tuskers Kerala,loser_Mumbai Indians,4/15/2011,8,0
+829749,Team1_id_ Rajasthan Royals,Team2_id_Royal Challengers Bangalore,Sardar Patel Stadium  Motera,Ahmedabad,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,4/24/2015,9,0
+501256,Team1_id_ Mumbai Indians,Team2_id_Deccan Chargers,Wankhede Stadium,Mumbai,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Mumbai Indians,5/14/2011,0,1
+392220,Team1_id_ Deccan Chargers,Team2_id_Rajasthan Royals,De Beers Diamond Oval,Kimberley,Toss_Deccan Chargers,bat,win_team_Deccan Chargers,loser_Rajasthan Royals,5/11/2009,0,5
+548331,Team1_id_ Kings XI Punjab,Team2_id_Royal Challengers Bangalore,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,4/20/2012,5,0
+548328,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,bat,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,4/18/2012,8,0
+598014,Team1_id_ Rajasthan Royals,Team2_id_Kings XI Punjab,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Kings XI Punjab,4/14/2013,6,0
+598064,Team1_id_ Kings XI Punjab,Team2_id_Royal Challengers Bangalore,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/6/2013,6,0
+980909,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Kolkata Knight Riders,4/13/2016,6,0
+980961,Team1_id_ Gujarat Lions,Team2_id_Delhi Daredevils,Saurashtra Cricket Association Stadium,Rajkot,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Gujarat Lions,5/3/2016,8,0
+980945,Team1_id_ Delhi Daredevils,Team2_id_Gujarat Lions,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,field,win_team_Gujarat Lions,loser_Delhi Daredevils,4/27/2016,0,0
+598029,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,bat,win_team_Mumbai Indians,loser_Kolkata Knight Riders,4/24/2013,5,0
+829779,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,5/4/2015,0,2
+548308,Team1_id_ Mumbai Indians,Team2_id_Pune Warriors,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Pune Warriors,loser_Mumbai Indians,4/6/2012,0,2
+392191,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,Kingsmead,Durban,Toss_Royal Challengers Bangalore,bat,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,4/24/2009,7,0
+501264,Team1_id_ Kings XI Punjab,Team2_id_Deccan Chargers,Himachal Pradesh Cricket Association Stadium,Dharamsala,Toss_Kings XI Punjab,field,win_team_Deccan Chargers,loser_Kings XI Punjab,5/21/2011,0,8
+598065,Team1_id_ Sunrisers Hyderabad,Team2_id_Rajasthan Royals,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,bat,win_team_Sunrisers Hyderabad,loser_Rajasthan Royals,5/17/2013,0,2
+980975,Team1_id_ Kolkata Knight Riders,Team2_id_Gujarat Lions,Eden Gardens,Kolkata,Toss_Gujarat Lions,field,win_team_Gujarat Lions,loser_Kolkata Knight Riders,5/8/2016,5,0
+548337,Team1_id_ Pune Warriors,Team2_id_Delhi Daredevils,Subrata Roy Sahara Stadium,Pune,Toss_Pune Warriors,bat,win_team_Delhi Daredevils,loser_Pune Warriors,4/24/2012,8,0
+829727,Team1_id_ Sunrisers Hyderabad,Team2_id_Rajasthan Royals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Rajasthan Royals,field,win_team_Rajasthan Royals,loser_Sunrisers Hyderabad,4/16/2015,6,0
+548373,Team1_id_ Deccan Chargers,Team2_id_Rajasthan Royals,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Rajasthan Royals,bat,win_team_Deccan Chargers,loser_Rajasthan Royals,5/18/2012,5,0
+392216,Team1_id_ Deccan Chargers,Team2_id_Kings XI Punjab,De Beers Diamond Oval,Kimberley,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Deccan Chargers,5/9/2009,3,0
+980943,Team1_id_ Sunrisers Hyderabad,Team2_id_Rising Pune Supergiants,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Rising Pune Supergiants,field,win_team_Rising Pune Supergiants,loser_Sunrisers Hyderabad,4/26/2016,0,3
+548377,Team1_id_ Rajasthan Royals,Team2_id_Mumbai Indians,Sawai Mansingh Stadium,Jaipur,Toss_Rajasthan Royals,bat,win_team_Mumbai Indians,loser_Rajasthan Royals,5/20/2012,10,0
+980929,Team1_id_ Gujarat Lions,Team2_id_Sunrisers Hyderabad,Saurashtra Cricket Association Stadium,Rajkot,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Gujarat Lions,4/21/2016,10,0
+829719,Team1_id_ Royal Challengers Bangalore,Team2_id_Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Toss_Sunrisers Hyderabad,field,win_team_Sunrisers Hyderabad,loser_Royal Challengers Bangalore,4/13/2015,8,0
+829797,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Rajasthan Royals,5/10/2015,0,1
+501240,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Rajasthan Royals,bat,win_team_Chennai Super Kings,loser_Rajasthan Royals,5/4/2011,8,0
+392186,Team1_id_ Kings XI Punjab,Team2_id_Kolkata Knight Riders,Kingsmead,Durban,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,4/21/2009,0,1
+829731,Team1_id_ Sunrisers Hyderabad,Team2_id_Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Sunrisers Hyderabad,4/18/2015,0,0
+598041,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Kings XI Punjab,5/2/2013,0,1
+980957,Team1_id_ Rising Pune Supergiants,Team2_id_Mumbai Indians,Maharashtra Cricket Association Stadium,Pune,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Rising Pune Supergiants,5/1/2016,8,0
+501251,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Mumbai Indians,field,win_team_Kings XI Punjab,loser_Mumbai Indians,5/10/2011,0,7
+548355,Team1_id_ Mumbai Indians,Team2_id_Chennai Super Kings,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Chennai Super Kings,5/6/2012,2,0
+548345,Team1_id_ Delhi Daredevils,Team2_id_Rajasthan Royals,Feroz Shah Kotla,Delhi,Toss_Delhi Daredevils,bat,win_team_Delhi Daredevils,loser_Rajasthan Royals,4/29/2012,0,0
+980911,Team1_id_ Gujarat Lions,Team2_id_Rising Pune Supergiants,Saurashtra Cricket Association Stadium,Rajkot,Toss_Rising Pune Supergiants,bat,win_team_Gujarat Lions,loser_Rising Pune Supergiants,4/14/2016,7,0
+981019,Team1_id_ Royal Challengers Bangalore,Team2_id_Sunrisers Hyderabad,M Chinnaswamy Stadium,Bangalore,Toss_Sunrisers Hyderabad,bat,win_team_Sunrisers Hyderabad,loser_Royal Challengers Bangalore,5/29/2016,0,0
+336013,Team1_id_ Chennai Super Kings,Team2_id_Kings XI Punjab,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Kings XI Punjab,field,win_team_Chennai Super Kings,loser_Kings XI Punjab,5/10/2008,0,1
+548363,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,Eden Gardens,Kolkata,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Kolkata Knight Riders,5/12/2012,0,2
+501211,Team1_id_ Chennai Super Kings,Team2_id_Royal Challengers Bangalore,MA Chidambaram Stadium  Chepauk,Chennai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Royal Challengers Bangalore,4/16/2011,0,2
+501246,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Wankhede Stadium,Mumbai,Toss_Delhi Daredevils,field,win_team_Mumbai Indians,loser_Delhi Daredevils,5/7/2011,0,3
+501247,Team1_id_ Royal Challengers Bangalore,Team2_id_Kochi Tuskers Kerala,M Chinnaswamy Stadium,Bangalore,Toss_Kochi Tuskers Kerala,bat,win_team_Royal Challengers Bangalore,loser_Kochi Tuskers Kerala,5/8/2011,9,0
+598043,Team1_id_ Kolkata Knight Riders,Team2_id_Rajasthan Royals,Eden Gardens,Kolkata,Toss_Rajasthan Royals,bat,win_team_Kolkata Knight Riders,loser_Rajasthan Royals,5/3/2013,8,0
+980927,Team1_id_ Mumbai Indians,Team2_id_Royal Challengers Bangalore,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Royal Challengers Bangalore,4/20/2016,6,0
+829739,Team1_id_ Delhi Daredevils,Team2_id_Kolkata Knight Riders,Feroz Shah Kotla,Delhi,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,4/20/2015,6,0
+419152,Team1_id_ Mumbai Indians,Team2_id_Delhi Daredevils,Brabourne Stadium,Mumbai,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Delhi Daredevils,4/13/2010,0,3
+419132,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Brabourne Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Mumbai Indians,loser_Kings XI Punjab,3/30/2010,4,0
+501244,Team1_id_ Royal Challengers Bangalore,Team2_id_Kings XI Punjab,M Chinnaswamy Stadium,Bangalore,Toss_Kings XI Punjab,field,win_team_Royal Challengers Bangalore,loser_Kings XI Punjab,5/6/2011,0,8
+392197,Team1_id_ Kolkata Knight Riders,Team2_id_Mumbai Indians,St George's Park,Port Elizabeth,Toss_Mumbai Indians,bat,win_team_Mumbai Indians,loser_Kolkata Knight Riders,4/27/2009,0,9
+981001,Team1_id_ Gujarat Lions,Team2_id_Kolkata Knight Riders,Green Park,Kanpur,Toss_Gujarat Lions,field,win_team_Gujarat Lions,loser_Kolkata Knight Riders,5/19/2016,6,0
+419164,Team1_id_ Royal Challengers Bangalore,Team2_id_Deccan Chargers,Dr DY Patil Sports Academy,Mumbai,Toss_Deccan Chargers,bat,win_team_Royal Challengers Bangalore,loser_Deccan Chargers,4/24/2010,9,0
+829717,Team1_id_ Mumbai Indians,Team2_id_Kings XI Punjab,Wankhede Stadium,Mumbai,Toss_Mumbai Indians,field,win_team_Kings XI Punjab,loser_Mumbai Indians,4/12/2015,0,1
+501213,Team1_id_ Pune Warriors,Team2_id_Delhi Daredevils,Dr DY Patil Sports Academy,Mumbai,Toss_Delhi Daredevils,field,win_team_Delhi Daredevils,loser_Pune Warriors,4/17/2011,3,0
+419165,Team1_id_ Chennai Super Kings,Team2_id_Mumbai Indians,Dr DY Patil Sports Academy,Mumbai,Toss_Chennai Super Kings,bat,win_team_Chennai Super Kings,loser_Mumbai Indians,4/25/2010,0,2
+548312,Team1_id_ Rajasthan Royals,Team2_id_Kolkata Knight Riders,Sawai Mansingh Stadium,Jaipur,Toss_Kolkata Knight Riders,field,win_team_Rajasthan Royals,loser_Kolkata Knight Riders,4/8/2012,0,2
+981009,Team1_id_ Kolkata Knight Riders,Team2_id_Sunrisers Hyderabad,Eden Gardens,Kolkata,Toss_Sunrisers Hyderabad,field,win_team_Kolkata Knight Riders,loser_Sunrisers Hyderabad,5/22/2016,0,2
+598023,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Toss_Royal Challengers Bangalore,field,win_team_Royal Challengers Bangalore,loser_Rajasthan Royals,4/20/2013,7,0
+829803,Team1_id_ Kings XI Punjab,Team2_id_Royal Challengers Bangalore,Punjab Cricket Association Stadium  Mohali,Chandigarh,Toss_Royal Challengers Bangalore,field,win_team_Kings XI Punjab,loser_Royal Challengers Bangalore,5/13/2015,0,2
+598032,Team1_id_ Rajasthan Royals,Team2_id_Sunrisers Hyderabad,Sawai Mansingh Stadium,Jaipur,Toss_Sunrisers Hyderabad,bat,win_team_Rajasthan Royals,loser_Sunrisers Hyderabad,4/27/2013,8,0
+829781,Team1_id_ Kolkata Knight Riders,Team2_id_Sunrisers Hyderabad,Eden Gardens,Kolkata,Toss_Sunrisers Hyderabad,field,win_team_Kolkata Knight Riders,loser_Sunrisers Hyderabad,5/4/2015,0,3
+392217,Team1_id_ Chennai Super Kings,Team2_id_Rajasthan Royals,De Beers Diamond Oval,Kimberley,Toss_Rajasthan Royals,bat,win_team_Chennai Super Kings,loser_Rajasthan Royals,5/9/2009,7,0
+597998,Team1_id_ Kolkata Knight Riders,Team2_id_Delhi Daredevils,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,4/3/2013,6,0
+548314,Team1_id_ Deccan Chargers,Team2_id_Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Toss_Deccan Chargers,bat,win_team_Mumbai Indians,loser_Deccan Chargers,4/9/2012,5,0
+598009,Team1_id_ Pune Warriors,Team2_id_Rajasthan Royals,Subrata Roy Sahara Stadium,Pune,Toss_Rajasthan Royals,bat,win_team_Pune Warriors,loser_Rajasthan Royals,4/11/2013,7,0
+980905,Team1_id_ Kings XI Punjab,Team2_id_Gujarat Lions,Punjab Cricket Association IS Bindra Stadium  Mohali,Chandigarh,Toss_Gujarat Lions,field,win_team_Gujarat Lions,loser_Kings XI Punjab,4/11/2016,5,0
+980903,Team1_id_ Kolkata Knight Riders,Team2_id_Delhi Daredevils,Eden Gardens,Kolkata,Toss_Kolkata Knight Riders,field,win_team_Kolkata Knight Riders,loser_Delhi Daredevils,4/10/2016,9,0
+336037,Team1_id_ Deccan Chargers,Team2_id_Chennai Super Kings,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Deccan Chargers,bat,win_team_Chennai Super Kings,loser_Deccan Chargers,5/27/2008,7,0
+548324,Team1_id_ Royal Challengers Bangalore,Team2_id_Rajasthan Royals,M Chinnaswamy Stadium,Bangalore,Toss_Rajasthan Royals,bat,win_team_Rajasthan Royals,loser_Royal Challengers Bangalore,4/15/2012,0,5
+734007,Team1_id_ Sunrisers Hyderabad,Team2_id_Kings XI Punjab,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Kings XI Punjab,field,win_team_Kings XI Punjab,loser_Sunrisers Hyderabad,5/14/2014,6,0
+598047,Team1_id_ Rajasthan Royals,Team2_id_Pune Warriors,Sawai Mansingh Stadium,Jaipur,Toss_Pune Warriors,bat,win_team_Rajasthan Royals,loser_Pune Warriors,5/5/2013,5,0
+980941,Team1_id_ Kings XI Punjab,Team2_id_Mumbai Indians,Punjab Cricket Association IS Bindra Stadium  Mohali,Chandigarh,Toss_Kings XI Punjab,field,win_team_Mumbai Indians,loser_Kings XI Punjab,4/25/2016,0,2
+734021,Team1_id_ Sunrisers Hyderabad,Team2_id_Royal Challengers Bangalore,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Royal Challengers Bangalore,bat,win_team_Sunrisers Hyderabad,loser_Royal Challengers Bangalore,5/20/2014,7,0
+829791,Team1_id_ Kolkata Knight Riders,Team2_id_Kings XI Punjab,Eden Gardens,Kolkata,Toss_Kings XI Punjab,bat,win_team_Kolkata Knight Riders,loser_Kings XI Punjab,5/9/2015,1,0
+829799,Team1_id_ Sunrisers Hyderabad,Team2_id_Kings XI Punjab,Rajiv Gandhi International Stadium  Uppal,Hyderabad,Toss_Sunrisers Hyderabad,bat,win_team_Sunrisers Hyderabad,loser_Kings XI Punjab,5/11/2015,0,0
