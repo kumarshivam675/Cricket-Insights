@@ -120,7 +120,9 @@ train_data$ORN <- a*c(scale(train_data$ORN))
 
 #output.tree <- randomForest(win ~ team1 + team2 +  (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
 
-output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
+#output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + (MW/MR) + (OW/OR) + (MRN - ORN) , data = train_data)
+
+#output.tree <- randomForest(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
 
 #output.tree <- ctree(win_bat_first ~ team1 + team2 + win_toss_1 + OW + MW + OR + ORN + MRN + MR , data = train_data)
 
@@ -174,13 +176,15 @@ predictions <- data.frame(testPred)
   
 #}
 
-#count
+#count 
 
 result = summary(testPred == test_data$win_bat_first)
-confusionMatrix(testPred, test_data$win_bat_first)
-
+c = confusionMatrix(testPred, test_data$win_bat_first)
+a = data.frame(c[2])$table.Freq
 result
+c
 
 100*strtoi(result[3])/(strtoi(result[3]) + strtoi(result[2]))  #---- Accuracy % on test data
 
+jacard = a[4]/(a[4] + a[2] +a[3])
 #write.csv(data.frame(test_data$file , testPred) , file = "/home/aditya9509/Cricket/prediction data generated/classification4.csv" )
