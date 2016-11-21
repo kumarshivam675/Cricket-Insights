@@ -1,0 +1,8 @@
+library(arules)
+team_summary <- read.csv("./final data generated/team_summary_arules.csv")
+data <- as.data.frame(team_summary)
+#data <- sapply(data,as.factor)
+#data$Win_by_wickets <-discretize(data$Win_by_wickets, categories = 10)
+#data$win_by_runs <-discretize(data$win_by_runs, categories = 10)
+rules.all <- apriori(data, parameter = list(minlen=3, supp=0.06, conf=0.7))
+inspect(rules.all)
