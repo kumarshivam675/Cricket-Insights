@@ -8,7 +8,7 @@ library(e1071)
 
 library(caret)
 
-
+setwd("C:/Users/siddartha/Desktop/sid/data_analatics/Cricket-Insights/scripts/R scripts")
 segment_one <- read.csv("./../../prediction data generated/first_six_overs.csv")
 
 segment_two <- read.csv("./../../prediction data generated/seven_fifteen_overs.csv")
